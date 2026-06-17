@@ -4,7 +4,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange.svg)](https://scikit-learn.org/)
 
-An end-to-end data analytics and predictive modeling project that investigates demographic impacts (gender, ethnicity, parental education level, lunch type, and test prep) on student academic performance. The project includes modularized Python analysis scripts, automated visualizations, and a regression model pipeline that predicts student average scores based on demographics.
+This project is an integral part of the Data Science Internship program at **Aadyam Talent Consultancy (ATC)**. The primary objective is to conduct a comprehensive analysis of student assessment data to uncover meaningful insights into academic performance. By leveraging advanced data analytics and visualization techniques, the project aims to identify key trends, patterns, and correlations within the data, ultimately facilitating data-driven decision-making to enhance educational outcomes.
+
+### Project Description
+This analysis is based on a comprehensive dataset comprising 1,000 student records. The study focuses on evaluating performance across three core subjects: Mathematics, Reading, and Writing. A significant portion of the research investigates the influence of external variables, specifically the 'Parental Level of Education' and the completion of a 'Test Preparation Course,' to determine their statistical correlation with student academic outcomes.
 
 ---
 
@@ -77,6 +80,11 @@ jupyter notebook StudentPerformanceAnalyze.ipynb
 4. **Some College** (Avg: 68.48)
 5. **Some High School** (Avg: 65.11)
 6. **High School** (Avg: 63.10)
+
+### Key Findings
+*   **Parental Education**: A parent's education level has a direct impact on the student's average scores (e.g. Master's and Bachelor's degrees correlation with top performance).
+*   **Test Preparation**: Students who completed the test preparation course consistently showed better performance than those who did not.
+*   **Skill Correlation**: There is a strong correlation between reading and writing scores—students who perform well in reading usually do well in writing too.
 
 ---
 
