@@ -1,0 +1,23 @@
+gender,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score,average_score
+female,group D,master's degree,standard,none,87,100,100,95.66666666666667
+female,group E,bachelor's degree,standard,completed,99,100,100,99.66666666666667
+male,group E,associate's degree,free/reduced,completed,100,100,93,97.66666666666667
+female,group C,bachelor's degree,standard,completed,96,100,100,98.66666666666667
+female,group D,some high school,standard,completed,97,100,100,99.0
+female,group D,high school,standard,completed,88,99,100,95.66666666666667
+female,group E,some college,standard,none,100,92,97,96.33333333333333
+female,group E,bachelor's degree,standard,none,100,100,100,100.0
+female,group A,some high school,standard,completed,92,100,97,96.33333333333333
+female,group E,bachelor's degree,free/reduced,completed,92,100,100,97.33333333333333
+female,group C,bachelor's degree,standard,completed,92,100,99,97.0
+male,group D,some college,standard,completed,100,97,99,98.66666666666667
+female,group E,master's degree,standard,completed,94,99,100,97.66666666666667
+female,group D,some college,standard,none,98,100,99,99.0
+female,group C,associate's degree,standard,completed,96,96,99,97.0
+female,group B,bachelor's degree,standard,none,97,97,96,96.66666666666667
+female,group E,associate's degree,standard,completed,93,100,95,96.0
+female,group D,bachelor's degree,free/reduced,completed,93,100,100,97.66666666666667
+male,group E,bachelor's degree,standard,completed,100,100,100,100.0
+female,group D,master's degree,standard,none,92,100,100,97.33333333333333
+female,group E,associate's degree,standard,none,100,100,100,100.0
+female,group D,bachelor's degree,standard,none,89,100,100,96.33333333333333

@@ -1,0 +1,6 @@
+{
+    "mean_squared_error": 179.74185013884485,
+    "r2_score": 0.16152106676999767,
+    "training_samples": 800,
+    "testing_samples": 200
+}
