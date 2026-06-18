@@ -1,0 +1,6 @@
+=== E-Commerce Key Performance Indicators (KPIs) ===
+Total Sales ($): 725,527.44
+Total Profit ($): 144,857.13
+Overall Profit Margin (%): 19.97
+Total Orders: 1,000
+Average Order Value ($): 725.53

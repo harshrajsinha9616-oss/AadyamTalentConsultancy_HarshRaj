@@ -21,7 +21,7 @@ Below is my current progress tracker:
 | Quest Level | Project Domain / Name | Status | Technology Stack | Project Directory |
 | :--- | :--- | :---: | :---: | :---: |
 | 🟢 **Level 1 (Easy)** | [Student Performance Analyzer](./1_Easy_Level_Student_Performance_Analyzer) | **Completed** | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-Learn` | [View Project](./1_Easy_Level_Student_Performance_Analyzer) |
-| 🟡 **Level 2 (Medium)** | *E-Commerce Sales Analysis* / *COVID-19 Data Analysis* | **Pending** | *TBD* | — |
+| 🟡 **Level 2 (Medium)** | [E-Commerce Sales Analysis](./2_Medium_Level_ECommerce_Sales_Analysis) | **Completed** | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn` | [View Project](./2_Medium_Level_ECommerce_Sales_Analysis) |
 | 🔴 **Level 3 (Hard)** | *Employee Salary Analysis* / *Customer Shopping Behavior Analysis* | **Pending** | *TBD* | — |
 
 ---
@@ -41,7 +41,14 @@ aadyamtalentconsultancy_Harsh/
 │   ├── StudentPerformanceAnalyze.ipynb         # Interactive Jupyter Notebook
 │   ├── README.md                               # Project-specific documentation
 │   └── requirements.txt                        # Project dependencies
-├── 2_Medium_Level_Project/                     # Level 2 Project (Upcoming)
+├── 2_Medium_Level_ECommerce_Sales_Analysis/    # Level 2 Project (Completed)
+│   ├── dataset/                                # Raw and cleaned transactions
+│   ├── outputs/                                # Analytical text & CSV exports
+│   ├── src/                                    # Generator, cleaner, and plotting source code
+│   ├── visualizations/                         # Generated data visualization charts
+│   ├── ECommerce_Sales_Analysis.ipynb          # Interactive Jupyter Notebook
+│   ├── README.md                               # Project-specific documentation
+│   └── requirements.txt                        # Project dependencies
 └── 3_Hard_Level_Project/                       # Level 3 Project (Upcoming)
 ```
 
@@ -58,9 +65,13 @@ aadyamtalentconsultancy_Harsh/
 * **Predictive Model:** Implemented an end-to-end Ridge Regression model pipeline to predict a student's average score based on demographic features.
 * **Folder Link:** [Student Performance Analyzer](./1_Easy_Level_Student_Performance_Analyzer)
 
-### 🟡 Level 2: Medium Level (Upcoming Choice)
-* **Option A: E-Commerce Sales Analysis** (Clean sales dataset, identify best-selling products, monthly sales trends, and generate business insights).
-* **Option B: COVID-19 Data Analysis** (Analyze cases, recoveries, and deaths globally/regionally, presenting visual patterns).
+### 🟡 Level 2: E-Commerce Sales Analysis (Completed)
+* **Mission:** Analyze transactional e-commerce dataset of 1,000 orders to find best-selling products, regional differences, and monthly seasonality.
+* **Key Findings:**
+  * **Sales Leader:** Technology accounts for **58.8% of sales** (`$426.99k`) and **56.5% of total profits** (`$81.92k`).
+  * **Q4 Holiday Seasonality:** Significant revenue spike in **November and December**, contributing over **27% of annual sales**.
+  * **West Region Profit Lead:** The **West** region achieved the highest net profit (`$38.93k`) despite slightly lower sales than the **South**, demonstrating high operating margins.
+* **Folder Link:** [E-Commerce Sales Analysis](./2_Medium_Level_ECommerce_Sales_Analysis)
 
 ### 🔴 Level 3: Hard Level (Upcoming Choice)
 * **Option A: Employee Salary Analysis** (Analyze salary determinants like experience, education, and job role using statistical thinking and visualizations).
