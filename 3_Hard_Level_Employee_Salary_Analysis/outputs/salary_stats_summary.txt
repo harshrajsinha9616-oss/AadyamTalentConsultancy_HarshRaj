@@ -1,0 +1,16 @@
+=== Employee Demographics & Salary Summary (Excl. Outliers) ===
+
+              Age  Years of Experience         Salary
+count  999.000000           999.000000     999.000000
+mean    38.188188             7.783383  110035.850781
+std      9.316771             7.036953   34660.000041
+min     21.000000             0.000000   44261.380000
+25%     32.000000             2.000000   83640.810000
+50%     38.000000             5.800000  103773.060000
+75%     44.000000            11.800000  130538.290000
+max     65.000000            42.100000  274168.180000
+
+=== Data Distribution Skewness ===
+Age: 0.1862
+Years of Experience: 1.0673
+Salary: 0.8565

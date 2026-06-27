@@ -22,7 +22,7 @@ Below is my current progress tracker:
 | :--- | :--- | :---: | :---: | :---: |
 | 🟢 **Level 1 (Easy)** | [Student Performance Analyzer](./1_Easy_Level_Student_Performance_Analyzer) | **Completed** | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-Learn` | [View Project](./1_Easy_Level_Student_Performance_Analyzer) |
 | 🟡 **Level 2 (Medium)** | [E-Commerce Sales Analysis](./2_Medium_Level_ECommerce_Sales_Analysis) | **Completed** | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn` | [View Project](./2_Medium_Level_ECommerce_Sales_Analysis) |
-| 🔴 **Level 3 (Hard)** | *Employee Salary Analysis* / *Customer Shopping Behavior Analysis* | **Pending** | *TBD* | — |
+| 🔴 **Level 3 (Hard)** | [Employee Salary Analysis](./3_Hard_Level_Employee_Salary_Analysis) | **Completed** | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-Learn` | [View Project](./3_Hard_Level_Employee_Salary_Analysis) |
 
 ---
 
@@ -49,7 +49,15 @@ aadyamtalentconsultancy_Harsh/
 │   ├── ECommerce_Sales_Analysis.ipynb          # Interactive Jupyter Notebook
 │   ├── README.md                               # Project-specific documentation
 │   └── requirements.txt                        # Project dependencies
-└── 3_Hard_Level_Project/                       # Level 3 Project (Upcoming)
+├── 3_Hard_Level_Employee_Salary_Analysis/      # Level 3 Project (Completed)
+│   ├── dataset/                                # Raw and cleaned employee records
+│   ├── outputs/                                # Statistical outputs, regression JSON, insights report
+│   ├── src/                                    # Generator, cleaner, statistical model source code
+│   ├── visualizations/                         # Generated distributions, box plots, regression lines
+│   ├── Employee_Salary_Analysis.ipynb          # Interactive Jupyter Notebook
+│   ├── README.md                               # Project-specific documentation
+│   └── requirements.txt                        # Project dependencies
+└── README.md                                   # Repository guide (this file)
 ```
 
 ---
@@ -73,9 +81,13 @@ aadyamtalentconsultancy_Harsh/
   * **West Region Profit Lead:** The **West** region achieved the highest net profit (`$38.93k`) despite slightly lower sales than the **South**, demonstrating high operating margins.
 * **Folder Link:** [E-Commerce Sales Analysis](./2_Medium_Level_ECommerce_Sales_Analysis)
 
-### 🔴 Level 3: Hard Level (Upcoming Choice)
-* **Option A: Employee Salary Analysis** (Analyze salary determinants like experience, education, and job role using statistical thinking and visualizations).
-* **Option B: Customer Shopping Behavior Analysis** (Analyze purchasing patterns, identify popular categories, and spending trends).
+### 🔴 Level 3: Employee Salary Analysis (Completed)
+* **Mission:** Analyze employee salaries to understand how age, experience, job role, and education impact compensation. Clean HR anomalies and train a predictive salary model.
+* **Key Findings:**
+  * **Experience Salary Impact:** Every year of experience is worth an average increase of **`$3,960.54`** in annual salary. The linear regression model is: $\text{Salary} = \$79,209.46 + (\$3,960.54 \times \text{Experience})$ with a high **$R^2 = 0.6466$**.
+  * **Education Premiums:** Strong salary step jumps are observed for advanced degrees (PhD averages `$125.39k`, Master's averages `$112.39k` over Bachelor's at `$107.36k`).
+  * **Gender Pay Audit:** Excellent pay equity balance with no systemic pay gap (Female average salary: `$111.62k` | Male average salary: `$108.49k`).
+* **Folder Link:** [Employee Salary Analysis](./3_Hard_Level_Employee_Salary_Analysis)
 
 ---
 

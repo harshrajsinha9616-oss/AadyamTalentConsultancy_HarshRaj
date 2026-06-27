@@ -1,0 +1,1016 @@
+Employee ID,Age,Gender,Education Level,Department,Job Title,Years of Experience,Salary,Performance Rating,Work Mode
+EMP-1000,42,Female,High School,Data Science,Data Scientist,17.7,141226.13,3,Hybrid
+EMP-1001,53,Female,High School,Engineering,Software Engineer,7.7,90935.18,3,Hybrid
+EMP-1002,53,Male,Bachelor's,Finance,Senior Finance Analyst,6.8,86743.15,3,Hybrid
+EMP-1003,43,Female,High School,Sales,Sales Representative,6.9,73185.62,2,Remote
+EMP-1004,40,Female,Bachelor's,Sales,Sales Associate,6.5,68950.49,1,Remote
+EMP-1005,32,Male,High School,Sales,Sales Manager,1.7,81025.48,2,On-site
+EMP-1006,28,Male,Bachelor's,Finance,Senior Finance Analyst,3.5,81493.89,2,Hybrid
+EMP-1007,35,Male,Bachelor's,HR,HR Associate,11.1,91071.51,3,On-site
+EMP-1008,32,Male,Bachelor's,HR,HR Associate,3.7,61634.04,3,Remote
+EMP-1009,41,Male,PhD,Finance,Finance Manager,2.4,118329.84,2,Hybrid
+EMP-1010,31,Male,Bachelor's,Finance,Financial Analyst,6.2,89959.02,4,On-site
+EMP-1011,27,Female,Bachelor's,Engineering,Tech Lead,2.0,94074.94,3,Remote
+EMP-1012,40,Female,Bachelor's,HR,HR Associate,11.8,88590.88,1,Hybrid
+EMP-1013,39,Female,Bachelor's,HR,HR Associate,4.2,71668.21,3,Hybrid
+EMP-1014,36,Male,Bachelor's,Finance,Senior Finance Analyst,5.1,70548.87,2,On-site
+EMP-1015,30,Male,Bachelor's,Engineering,Software Engineer,1.2,76382.73,2,Remote
+EMP-1016,41,Female,Bachelor's,Finance,Senior Finance Analyst,10.1,99364.5,1,On-site
+EMP-1017,34,Female,High School,Engineering,Tech Lead,12.3,137330.06,2,Remote
+EMP-1018,48,Male,Bachelor's,Executive,Vice President,25.3,219224.69,3,Hybrid
+EMP-1019,34,Female,Bachelor's,HR,HR Manager,6.1,109473.27,3,Remote
+EMP-1020,33,Male,Bachelor's,Finance,Financial Analyst,6.6,82081.99,3,Hybrid
+EMP-1021,26,Male,Bachelor's,HR,HR Associate,0.2,61977.44,3,On-site
+EMP-1022,37,Female,High School,Sales,Sales Associate,18.6,133289.82,4,Hybrid
+EMP-1023,31,Male,Master's,Finance,Financial Analyst,1.9,90208.22,3,On-site
+EMP-1024,37,Male,Bachelor's,Finance,Finance Manager,10.3,116541.53,4,Hybrid
+EMP-1025,46,Male,Master's,Finance,Senior Finance Analyst,2.7,82545.96,3,Remote
+EMP-1026,38,Male,Bachelor's,Data Science,Data Scientist,0.1,64101.97,1,Hybrid
+EMP-1027,41,Male,High School,Executive,Vice President,1.6,116610.38,4,Remote
+EMP-1028,29,Female,Bachelor's,Data Science,Data Science Manager,1.7,105632.41,2,Hybrid
+EMP-1029,41,Male,High School,HR,HR Specialist,9.5,84979.6,2,On-site
+EMP-1030,38,Male,Master's,Engineering,Software Engineer,5.6,99307.68,3,Remote
+EMP-1031,34,Female,Bachelor's,Data Science,Data Science Manager,1.7,91358.91,2,Remote
+EMP-1032,40,Male,Master's,Engineering,Engineering Manager,12.9,159210.68,3,On-site
+EMP-1033,35,Male,Master's,Finance,Financial Analyst,10.7,112416.13,2,On-site
+EMP-1034,34,Female,Bachelor's,Sales,Sales Representative,2.6,64952.29,2,Hybrid
+EMP-1035,42,Male,Bachelor's,HR,HR Specialist,5.7,80987.47,4,Hybrid
+EMP-1036,40,Female,Master's,Sales,Sales Associate,3.0,71087.37,3,Remote
+EMP-1037,37,Male,Master's,Engineering,Tech Lead,0.7,122719.45,3,Hybrid
+EMP-1038,36,Female,Master's,Data Science,Data Analyst,11.5,131091.73,3,Remote
+EMP-1039,26,Male,Bachelor's,Data Science,Data Science Manager,0.5,105611.6,4,On-site
+EMP-1040,45,Male,Bachelor's,Sales,Sales Manager,13.4,144696.77,2,Hybrid
+EMP-1041,23,Female,Bachelor's,HR,HR Associate,0.3,67402.73,3,Remote
+EMP-1042,28,Female,Bachelor's,Engineering,Software Engineer,2.7,76937.91,2,On-site
+EMP-1043,32,Non-binary,High School,Data Science,Senior Data Scientist,1.9,65391.38,1,Remote
+EMP-1044,27,Male,Bachelor's,HR,HR Associate,2.2,56723.45,3,Hybrid
+EMP-1045,53,Male,PhD,Finance,Financial Analyst,17.4,156147.63,2,Hybrid
+EMP-1046,46,Female,Bachelor's,HR,HR Associate,21.4,141244.76,2,Hybrid
+EMP-1047,51,Male,Bachelor's,HR,HR Associate,19.9,131687.8,1,On-site
+EMP-1048,40,Female,Bachelor's,Engineering,Software Engineer,11.4,108458.3,3,On-site
+EMP-1049,24,Male,Bachelor's,Data Science,Senior Data Scientist,0.3,74041.91,3,Hybrid
+EMP-1050,40,Female,Bachelor's,Engineering,Software Engineer,17.0,135319.85,3,Hybrid
+EMP-1051,40,Male,High School,HR,HR Manager,12.2,116953.89,3,Hybrid
+EMP-1052,56,Male,Bachelor's,Engineering,Tech Lead,7.1,115672.18,3,Remote
+EMP-1053,44,Male,Master's,Sales,Sales Manager,15.0,159722.51,2,On-site
+EMP-1054,49,Male,Bachelor's,Data Science,Data Science Manager,0.7,101720.26,2,Hybrid
+EMP-1055,42,Male,PhD,Data Science,Senior Data Scientist,2.4,119460.76,3,Hybrid
+EMP-1056,35,Male,High School,Sales,Sales Associate,3.4,55942.91,2,On-site
+EMP-1057,29,Male,Master's,Data Science,Data Scientist,0.1,85466.91,3,Remote
+EMP-1058,40,Male,Master's,HR,HR Specialist,10.3,108338.01,3,Hybrid
+EMP-1059,52,Non-binary,Bachelor's,Engineering,Tech Lead,5.4,129001.01,2,On-site
+EMP-1060,44,Male,Bachelor's,HR,HR Specialist,13.3,99434.65,2,Hybrid
+EMP-1061,42,Male,Bachelor's,Sales,Sales Associate,10.4,105964.0,3,On-site
+EMP-1062,42,Female,PhD,Data Science,Senior Data Scientist,6.5,120219.24,3,On-site
+EMP-1063,22,Female,Bachelor's,Engineering,Tech Lead,0.0,95138.39,2,Hybrid
+EMP-1064,40,Female,Bachelor's,HR,HR Manager,2.3,85699.09,2,Hybrid
+EMP-1065,41,Female,Master's,Finance,Finance Manager,5.1,117342.35,2,Hybrid
+EMP-1066,38,Male,Bachelor's,Sales,Sales Manager,9.7,122886.72,2,Remote
+EMP-1067,43,Male,Master's,Data Science,Data Analyst,5.4,115002.81,4,Hybrid
+EMP-1068,24,Female,High School,Data Science,Senior Data Scientist,1.3,68550.21,2,Remote
+EMP-1069,43,Male,Bachelor's,Engineering,Engineering Manager,8.7,152656.39,3,Hybrid
+EMP-1070,43,Male,Master's,Data Science,Data Scientist,12.5,144224.01,4,Remote
+EMP-1071,44,Female,Master's,Executive,Vice President,4.4,150033.82,2,On-site
+EMP-1072,30,Female,Bachelor's,Finance,Financial Analyst,7.3,88747.82,3,Remote
+EMP-1073,38,Male,Bachelor's,Finance,Finance Manager,9.5,120696.41,5,On-site
+EMP-1074,44,Female,Bachelor's,Finance,Senior Finance Analyst,18.3,129028.41,1,Hybrid
+EMP-1075,48,Female,Master's,HR,HR Associate,20.2,143373.53,3,Remote
+EMP-1076,30,Female,Bachelor's,Data Science,Senior Data Scientist,3.5,81317.8,3,Hybrid
+EMP-1077,40,Male,Bachelor's,Finance,Financial Analyst,2.5,67590.4,3,Remote
+EMP-1078,59,Female,Master's,Executive,Vice President,11.6,166569.14,3,Hybrid
+EMP-1079,39,Male,Master's,Sales,Sales Manager,14.2,156754.6,2,Remote
+EMP-1080,30,Female,Bachelor's,Sales,Sales Associate,7.5,92529.92,3,Remote
+EMP-1081,46,Male,Master's,Finance,Finance Manager,16.2,161032.99,2,Hybrid
+EMP-1082,33,Female,Bachelor's,HR,HR Specialist,5.3,82852.73,2,Hybrid
+EMP-1083,42,Female,Master's,Sales,Sales Associate,17.7,146847.17,2,Hybrid
+EMP-1084,59,Female,Bachelor's,Engineering,Engineering Manager,5.0,107883.78,4,Hybrid
+EMP-1085,33,Male,Bachelor's,Data Science,Data Science Manager,3.6,109873.98,4,Hybrid
+EMP-1086,42,Male,Master's,HR,HR Associate,8.5,95138.42,3,Hybrid
+EMP-1087,37,Male,PhD,Data Science,Data Analyst,7.8,118613.67,1,Hybrid
+EMP-1088,35,Female,PhD,Data Science,Data Analyst,5.0,125794.47,2,Remote
+EMP-1089,23,Male,Bachelor's,Data Science,Data Science Manager,,96724.44,2,Hybrid
+EMP-1090,52,Male,Bachelor's,Engineering,Senior Engineer,28.9,193358.98,2,Remote
+EMP-1091,38,Male,Bachelor's,Sales,Sales Representative,15.1,121192.62,2,Remote
+EMP-1092,39,Female,Master's,Data Science,Data Analyst,10.5,124518.81,2,Remote
+EMP-1093,34,Female,Master's,Finance,Financial Analyst,3.5,91672.78,3,Hybrid
+EMP-1094,53,Male,Bachelor's,Sales,Sales Representative,3.3,81658.2,2,On-site
+EMP-1095,21,Female,Master's,Data Science,Data Science Manager,0.0,111529.9,3,Remote
+EMP-1096,40,Female,Master's,Finance,Finance Manager,12.4,145831.27,2,Hybrid
+EMP-1097,33,Female,Bachelor's,HR,HR Associate,9.1,93317.61,2,Remote
+EMP-1098,41,Female,Bachelor's,Finance,Finance Manager,7.2,118637.6,2,Remote
+EMP-1099,41,Female,Bachelor's,HR,HR Specialist,5.3,79037.77,3,Hybrid
+EMP-1100,29,Female,Bachelor's,Finance,Financial Analyst,0.6,65003.76,2,Hybrid
+EMP-1101,44,Female,Master's,Sales,Sales Representative,15.9,137483.96,3,Remote
+EMP-1102,50,Male,Master's,Finance,Senior Finance Analyst,12.3,124942.58,2,Hybrid
+EMP-1103,35,Male,Master's,HR,HR Specialist,7.7,103932.66,3,Remote
+EMP-1104,46,Male,Bachelor's,Engineering,Senior Engineer,4.6,95152.87,3,Hybrid
+EMP-1105,38,Male,Bachelor's,Finance,Finance Manager,4.5,103038.4,3,Remote
+EMP-1106,41,Male,Bachelor's,Engineering,Senior Engineer,5.2,90421.98,3,On-site
+EMP-1107,43,Female,Master's,Executive,Vice President,1.9,147534.32,2,Remote
+EMP-1108,27,Male,Bachelor's,HR,HR Associate,4.8,77108.67,2,Remote
+EMP-1109,45,Female,Bachelor's,Executive,Vice President,1.7,128910.07,3,Hybrid
+EMP-1110,37,Male,Bachelor's,Finance,Senior Finance Analyst,1.3,63914.83,2,Remote
+EMP-1111,31,Female,Bachelor's,Finance,Finance Manager,2.0,93517.66,3,Hybrid
+EMP-1112,29,Male,Bachelor's,Finance,Senior Finance Analyst,2.1,69297.59,2,Hybrid
+EMP-1113,32,Female,Master's,Data Science,Data Scientist,2.1,90282.12,2,Remote
+EMP-1114,40,Male,Bachelor's,Data Science,Data Analyst,7.4,96253.77,2,Hybrid
+EMP-1115,40,Male,High School,HR,HR Manager,6.2,84595.22,2,On-site
+EMP-1116,30,Male,Bachelor's,HR,HR Manager,4.7,99605.45,3,On-site
+EMP-1117,52,Male,Bachelor's,Data Science,Senior Data Scientist,24.8,174200.37,3,Remote
+EMP-1118,37,Male,Bachelor's,Finance,Senior Finance Analyst,6.6,85608.92,2,Hybrid
+EMP-1119,35,Male,Bachelor's,HR,HR Manager,7.0,102436.61,3,Hybrid
+EMP-1120,43,Female,Master's,Finance,Senior Finance Analyst,0.5,77447.44,4,Remote
+EMP-1121,42,Female,Master's,Engineering,Tech Lead,10.4,146272.68,3,Hybrid
+EMP-1122,40,Male,Bachelor's,Sales,Sales Representative,3.3,72446.06,3,Hybrid
+EMP-1123,30,Female,Bachelor's,Engineering,Engineering Manager,2.8,107747.99,3,Remote
+EMP-1124,52,Female,Master's,Sales,Sales Representative,18.6,161039.09,3,Hybrid
+EMP-1125,30,Female,High School,Engineering,Tech Lead,3.0,98700.05,3,Remote
+EMP-1126,59,Female,Master's,Engineering,Engineering Manager,14.5,157861.67,2,Remote
+EMP-1127,32,Male,Master's,Sales,Sales Associate,1.6,67565.47,1,Hybrid
+EMP-1128,30,Female,Bachelor's,Sales,Sales Associate,0.2,60890.54,3,Hybrid
+EMP-1129,56,Female,Master's,Engineering,Engineering Manager,3.0,114138.58,3,On-site
+EMP-1130,29,Female,Bachelor's,Engineering,Senior Engineer,3.5,74778.6,3,Hybrid
+EMP-1131,56,Female,Bachelor's,Sales,Sales Associate,15.5,123284.95,4,Remote
+EMP-1132,21,Male,Bachelor's,Data Science,Data Analyst,0.0,73312.76,4,Remote
+EMP-1133,50,Female,Bachelor's,Finance,Senior Finance Analyst,23.0,148003.75,1,Remote
+EMP-1134,38,Male,Bachelor's,Sales,Sales Associate,7.1,85119.61,3,Hybrid
+EMP-1135,44,Male,Master's,HR,HR Associate,19.6,143465.72,2,Remote
+EMP-1136,39,Male,Master's,Sales,Sales Associate,4.8,94429.69,3,Hybrid
+EMP-1137,26,Female,Bachelor's,Data Science,Data Science Manager,3.9,114046.06,1,Remote
+EMP-1138,41,Non-binary,Bachelor's,Executive,Vice President,1.9,132286.91,2,On-site
+EMP-1139,39,Male,Bachelor's,Data Science,Data Analyst,8.0,108005.11,4,On-site
+EMP-1140,58,Male,Master's,HR,HR Manager,29.2,-214146.22,4,Hybrid
+EMP-1141,47,Male,Master's,Finance,Financial Analyst,14.2,140851.79,3,Remote
+EMP-1142,28,Female,Bachelor's,   Data Science  ,Data Analyst,2.6,88270.55,3,Remote
+EMP-1143,21,Female,Master's,Sales,Sales Associate,0.0,54764.61,2,Hybrid
+EMP-1144,35,Female,High School,Engineering,Tech Lead,6.1,119634.14,3,Hybrid
+EMP-1145,38,Male,Bachelor's,Data Science,Data Scientist,2.8,77479.39,4,Hybrid
+EMP-1146,21,Male,Master's,Sales,Sales Manager,0.0,97304.39,3,Remote
+EMP-1147,37,Male,Bachelor's,HR,HR Manager,0.1,71885.28,1,On-site
+EMP-1148,24,Female,Master's,Data Science,Data Analyst,0.0,85199.59,3,Hybrid
+EMP-1149,28,Male,Bachelor's,Sales,Sales Manager,1.5,79944.72,2,On-site
+EMP-1150,37,Male,Bachelor's,Sales,Sales Associate,3.6,67205.64,3,Hybrid
+EMP-1151,43,Female,PhD,Sales,Sales Representative,0.1,77662.76,2,On-site
+EMP-1152,36,Female,PhD,Finance,Finance Manager,4.5,125578.1,2,On-site
+EMP-1153,26,Male,Master's,Finance,Senior Finance Analyst,0.4,77891.58,4,Remote
+EMP-1154,31,Male,Master's,Data Science,Data Analyst,6.3,108786.03,3,Hybrid
+EMP-1155,35,Male,Bachelor's,Finance,Senior Finance Analyst,9.5,105445.05,3,Remote
+EMP-1156,32,Male,Master's,Data Science,Data Scientist,1.1,82969.69,2,Hybrid
+EMP-1157,21,Non-binary,Bachelor's,HR,HR Associate,0.0,55201.25,1,Remote
+EMP-1158,54,Female,Bachelor's,HR,HR Associate,15.0,119459.34,3,Remote
+EMP-1159,41,Female,Bachelor's,Sales,Sales Manager,6.9,124697.45,5,Hybrid
+EMP-1160,36,Male,Bachelor's,Sales,Sales Representative,9.4,84841.32,2,Hybrid
+EMP-1161,40,Female,Master's,HR,HR Associate,10.8,98826.48,2,Hybrid
+EMP-1162,31,Female,PhD,HR,HR Manager,0.9,115902.85,2,Remote
+EMP-1163,46,Female,PhD,Sales,Sales Associate,2.7,105219.66,3,On-site
+EMP-1164,38,Male,Bachelor's,Engineering,Senior Engineer,14.2,133778.74,2,Remote
+EMP-1165,43,Male,Master's,Finance,Senior Finance Analyst,11.2,115897.97,2,Hybrid
+EMP-1166,29,Female,Master's,Sales,Sales Manager,2.0,105957.07,2,On-site
+EMP-1167,57,Male,Bachelor's,   Data Science  ,Senior Data Scientist,3.5,86077.82,2,Hybrid
+EMP-1168,31,Female,PhD,HR,HR Associate,1.6,80165.64,2,Remote
+EMP-1169,29,Male,Master's,Sales,Sales Associate,3.3,78874.3,3,Hybrid
+EMP-1170,40,Female,High School,HR,HR Associate,21.8,135126.31,3,Hybrid
+EMP-1171,28,Male,Master's,Finance,Financial Analyst,2.3,84192.35,2,On-site
+EMP-1172,43,Male,Master's,Finance,Financial Analyst,5.3,92855.99,2,On-site
+EMP-1173,45,Non-binary,Bachelor's,Engineering,Software Engineer,3.0,77860.16,1,Hybrid
+EMP-1174,31,Female,Bachelor's,Engineering,Senior Engineer,2.4,73500.45,3,Remote
+EMP-1175,21,Male,Bachelor's,Engineering,Engineering Manager,0.0,87288.51,1,Hybrid
+EMP-1176,40,Male,Bachelor's,Sales,Sales Manager,4.0,100631.55,2,Hybrid
+EMP-1177,21,Female,PhD,Finance,Senior Finance Analyst,0.0,80733.9,3,Hybrid
+EMP-1178,31,Non-binary,High School,Sales,Sales Representative,5.5,67937.52,3,Remote
+EMP-1179,34,Female,Bachelor's,Engineering,Tech Lead,7.3,123198.65,4,Remote
+EMP-1180,46,Male,Bachelor's,HR,HR Specialist,23.9,153558.83,2,Hybrid
+EMP-1181,52,Male,Bachelor's,Executive,Director,25.6,214738.63,1,Hybrid
+EMP-1182,43,Female,Master's,Sales,Sales Associate,7.9,105406.88,3,On-site
+EMP-1183,31,Male,Master's,HR,HR Specialist,2.2,73305.94,3,Remote
+EMP-1184,49,Female,Master's,Engineering,Software Engineer,2.3,91685.62,3,Remote
+EMP-1185,33,Female,Master's,Finance,Financial Analyst,5.3,89664.65,2,Hybrid
+EMP-1186,41,Male,Bachelor's,Sales,Sales Manager,1.0,85938.65,2,Remote
+EMP-1187,58,Male,Bachelor's,Data Science,Data Science Manager,8.1,128063.86,3,Remote
+EMP-1188,50,Female,Bachelor's,Finance,Financial Analyst,22.6,140691.25,2,On-site
+EMP-1189,27,Non-binary,Master's,Finance,Finance Manager,1.9,97870.92,1,Remote
+EMP-1190,38,Female,Master's,HR,HR Associate,-2.0,80461.56,4,Hybrid
+EMP-1191,35,Male,Bachelor's,Engineering,Senior Engineer,11.3,102193.19,3,Hybrid
+EMP-1192,40,Male,Bachelor's,Engineering,Software Engineer,13.4,115408.48,3,Remote
+EMP-1193,49,Male,Bachelor's,HR,HR Manager,16.1,143128.27,3,On-site
+EMP-1194,44,Male,Master's,Executive,Director,5.4,159771.2,5,Hybrid
+EMP-1195,40,Female,Bachelor's,HR,HR Associate,13.6,102020.93,2,Remote
+EMP-1196,46,Male,Bachelor's,Sales,Sales Manager,16.0,147629.4,2,Remote
+EMP-1197,33,Male,Bachelor's,Engineering,Senior Engineer,3.3,83861.97,3,Remote
+EMP-1198,48,Male,Bachelor's,Engineering,Engineering Manager,19.4,169860.75,2,Remote
+EMP-1199,28,Male,Master's,Finance,Finance Manager,3.3,111123.8,2,On-site
+EMP-1200,45,Male,Master's,Executive,Director,9.7,172957.64,2,Remote
+EMP-1201,51,Male,Bachelor's,Sales,Sales Representative,3.3,83120.77,3,Remote
+EMP-1202,30,Male,Master's,Finance,Senior Finance Analyst,5.0,80327.68,2,On-site
+EMP-1203,52,Male,Master's,Finance,Senior Finance Analyst,14.7,134406.49,3,Hybrid
+EMP-1204,40,Male,Bachelor's,HR,HR Associate,-2.0,70554.51,2,Hybrid
+EMP-1205,39,Female,Bachelor's,HR,HR Specialist,12.4,109434.6,3,On-site
+EMP-1206,42,Female,Bachelor's,Executive,Director,3.5,127957.15,3,Remote
+EMP-1207,42,Female,High School,Sales,Sales Representative,18.1,137092.52,4,Hybrid
+EMP-1208,53,Male,PhD,Finance,Senior Finance Analyst,22.5,173562.37,2,Hybrid
+EMP-1209,36,Male,High School,Sales,Sales Manager,5.5,104665.15,3,Remote
+EMP-1210,21,Male,Bachelor's,HR,HR Specialist,0.0,55051.95,4,Hybrid
+EMP-1211,33,Male,Master's,Engineering,Software Engineer,5.5,90170.86,2,Hybrid
+EMP-1212,46,Male,Bachelor's,Engineering,Engineering Manager,21.8,176820.23,3,Hybrid
+EMP-1213,25,Male,Bachelor's,Finance,Financial Analyst,2.9,80194.13,2,Hybrid
+EMP-1214,35,Female,Master's,Engineering,Senior Engineer,0.4,74205.54,1,Hybrid
+EMP-1215,35,Non-binary,Bachelor's,Finance,Financial Analyst,4.7,74414.23,1,On-site
+EMP-1216,35,Male,Master's,Finance,Financial Analyst,8.7,120633.74,3,Hybrid
+EMP-1217,49,Male,High School,HR,HR Specialist,22.4,129440.84,2,Hybrid
+EMP-1218,63,Female,Master's,Finance,Finance Manager,5.5,121183.58,3,Remote
+EMP-1219,37,Non-binary,Master's,Sales,Sales Associate,7.7,101473.84,3,On-site
+EMP-1220,32,Male,Bachelor's,HR,HR Associate,,77943.48,2,On-site
+EMP-1221,32,Female,Master's,Finance,Financial Analyst,5.2,92478.58,2,Hybrid
+EMP-1222,35,Male,Bachelor's,Data Science,Data Scientist,4.4,76574.18,4,Hybrid
+EMP-1223,48,Male,PhD,HR,HR Associate,10.7,115499.66,4,Hybrid
+EMP-1224,34,Female,Bachelor's,HR,HR Manager,1.6,73274.93,2,Hybrid
+EMP-1225,30,Male,Master's,Finance,Financial Analyst,4.3,98573.62,2,Remote
+EMP-1226,47,Male,Master's,Finance,Senior Finance Analyst,17.3,152990.03,4,Hybrid
+EMP-1227,26,Male,Bachelor's,Sales,Sales Associate,1.5,64236.25,2,On-site
+EMP-1228,25,Non-binary,Bachelor's,HR,HR Specialist,1.5,57858.05,3,Hybrid
+EMP-1229,34,Male,Bachelor's,Finance,Financial Analyst,10.5,107765.58,3,Remote
+EMP-1230,34,Female,Bachelor's,Engineering,Software Engineer,3.4,78793.62,4,Hybrid
+EMP-1231,44,Male,PhD,Executive,Vice President,1.6,149862.72,3,On-site
+EMP-1232,41,Female,Master's,Sales,Sales Associate,6.7,100684.16,2,Hybrid
+EMP-1233,36,Male,High School,Data Science,Data Analyst,5.7,90234.06,2,Remote
+EMP-1234,30,Female,Bachelor's,Data Science,Data Scientist,0.3,59920.22,2,On-site
+EMP-1235,44,Male,Master's,Sales,Sales Representative,12.3,129188.77,2,On-site
+EMP-1236,21,Male,Bachelor's,Data Science,Data Science Manager,0.0,100266.1,4,Remote
+EMP-1237,37,Male,Bachelor's,Engineering,Senior Engineer,6.3,93854.82,2,Hybrid
+EMP-1238,37,Male,Bachelor's,Sales,Sales Manager,8.0,120285.37,4,Hybrid
+EMP-1239,39,Female,Master's,HR,HR Specialist,0.0,61658.33,2,Hybrid
+EMP-1240,41,Female,Bachelor's,Finance,Senior Finance Analyst,1.3,52370.89,1,Hybrid
+EMP-1241,45,Female,PhD,Sales,Sales Representative,0.8,87256.1,3,Hybrid
+EMP-1242,38,Male,Master's,HR,HR Associate,4.8,81921.44,3,Hybrid
+EMP-1243,30,Female,Master's,HR,HR Associate,0.3,60389.76,3,Hybrid
+EMP-1244,42,Female,Bachelor's,Sales,Sales Manager,9.6,123494.93,1,Remote
+EMP-1245,42,Male,Master's,Engineering,Tech Lead,3.6,126016.15,3,Hybrid
+EMP-1246,54,Female,Bachelor's,Sales,Sales Manager,15.1,138374.75,4,Remote
+EMP-1247,25,Female,Bachelor's,Engineering,Tech Lead,0.8,93516.55,2,Hybrid
+EMP-1248,43,Male,Bachelor's,Sales,Sales Representative,20.4,141800.6,2,Hybrid
+EMP-1249,30,Female,PhD,Finance,Senior Finance Analyst,2.4,86640.03,2,Hybrid
+EMP-1250,28,Male,Bachelor's,Data Science,Senior Data Scientist,1.9,70124.76,2,Remote
+EMP-1251,48,Female,Bachelor's,Sales,Sales Associate,17.9,145974.29,2,Hybrid
+EMP-1252,42,Male,Master's,Sales,Sales Representative,11.5,113149.85,3,Hybrid
+EMP-1253,45,Male,Master's,Finance,Finance Manager,14.3,155792.06,2,On-site
+EMP-1254,63,Male,Bachelor's,Engineering,Senior Engineer,2.8,86655.64,3,Hybrid
+EMP-1255,30,Male,Bachelor's,Finance,Financial Analyst,4.8,91784.8,3,Hybrid
+EMP-1256,31,Female,Bachelor's,Engineering,Senior Engineer,4.8,95406.51,4,Hybrid
+EMP-1257,32,Female,Bachelor's,Engineering,Software Engineer,7.4,104915.33,3,Hybrid
+EMP-1258,44,Male,Bachelor's,HR,HR Manager,9.8,108797.18,1,On-site
+EMP-1259,35,Male,PhD,Sales,Sales Associate,1.0,92924.03,3,On-site
+EMP-1260,39,Male,Master's,Sales,Sales Associate,12.2,120521.19,2,On-site
+EMP-1261,44,Non-binary,Master's,Finance,Finance Manager,5.8,128844.68,3,Remote
+EMP-1262,46,Male,Master's,Data Science,Senior Data Scientist,11.2,129619.01,3,Remote
+EMP-1263,21,Male,Bachelor's,Sales,Sales Associate,0.0,59246.13,3,Hybrid
+EMP-1264,40,Female,Bachelor's,Finance,Financial Analyst,11.0,97713.66,2,Remote
+EMP-1265,48,Male,PhD,Finance,Senior Finance Analyst,16.2,160129.0,3,On-site
+EMP-1266,38,Male,PhD,Engineering,Engineering Manager,5.1,147049.7,3,Hybrid
+EMP-1267,32,Male,Master's,Finance,Finance Manager,4.7,114966.35,3,Hybrid
+EMP-1268,33,Male,Bachelor's,Engineering,Software Engineer,5.7,90272.8,2,Remote
+EMP-1269,33,Male,PhD,Data Science,Senior Data Scientist,5.7,119572.36,4,Hybrid
+EMP-1270,36,Male,High School,Data Science,Senior Data Scientist,2.3,78341.87,2,Remote
+EMP-1271,39,Female,Bachelor's,Data Science,Data Scientist,2.9,77266.64,4,Hybrid
+EMP-1272,40,Female,Bachelor's,Finance,Financial Analyst,14.9,124073.7,3,Remote
+EMP-1273,48,Male,Bachelor's,Data Science,Data Science Manager,16.1,169076.08,2,Remote
+EMP-1274,60,Female,Bachelor's,HR,HR Specialist,9.3,86386.98,2,On-site
+EMP-1275,52,Male,Bachelor's,Data Science,Data Science Manager,12.5,148362.84,4,Hybrid
+EMP-1276,33,Male,Bachelor's,HR,HR Manager,10.9,112713.3,2,Remote
+EMP-1277,28,Male,Master's,Finance,Finance Manager,0.4,92073.21,2,Remote
+EMP-1278,37,Male,Bachelor's,Data Science,Data Analyst,0.8,83663.0,3,On-site
+EMP-1279,28,Female,Bachelor's,Data Science,Senior Data Scientist,5.6,93236.07,3,Hybrid
+EMP-1280,37,Male,Bachelor's,Finance,Senior Finance Analyst,7.5,85763.67,3,Remote
+EMP-1281,41,Male,PhD,Data Science,Data Scientist,8.2,135394.71,3,Remote
+EMP-1282,40,Male,Bachelor's,Sales,Sales Representative,9.7,100913.56,5,On-site
+EMP-1283,32,Male,Master's,HR,HR Specialist,2.9,70847.14,2,Hybrid
+EMP-1284,31,Female,Bachelor's,Finance,Senior Finance Analyst,0.7,75463.03,4,Hybrid
+EMP-1285,32,Female,Bachelor's,Finance,Finance Manager,6.1,111448.49,2,Remote
+EMP-1286,32,Male,Bachelor's,HR,HR Manager,9.4,118697.54,3,Hybrid
+EMP-1287,22,Male,Bachelor's,Finance,Financial Analyst,0.0,74775.27,4,Remote
+EMP-1288,31,Male,Bachelor's,Sales,Sales Manager,4.1,98935.19,2,Hybrid
+EMP-1289,41,Female,Bachelor's,Data Science,Data Science Manager,18.8,187021.23,3,Hybrid
+EMP-1290,36,Male,Bachelor's,Finance,Finance Manager,6.9,103704.08,2,Hybrid
+EMP-1291,30,Male,High School,HR,HR Manager,1.3,86227.35,3,Hybrid
+EMP-1292,32,Male,Master's,Engineering,Engineering Manager,2.1,113721.46,3,Hybrid
+EMP-1293,49,Non-binary,Bachelor's,Engineering,Engineering Manager,4.6,115134.79,5,Hybrid
+EMP-1294,33,Female,Master's,Data Science,Data Scientist,0.3,91351.35,4,On-site
+EMP-1295,56,Male,High School,data science,Data Science Manager,26.2,195884.25,3,Hybrid
+EMP-1296,43,Female,PhD,Engineering,Senior Engineer,8.3,137782.89,4,Hybrid
+EMP-1297,43,Non-binary,Bachelor's,Data Science,Data Science Manager,19.2,186655.77,4,Remote
+EMP-1298,51,Male,Master's,HR,HR Manager,13.1,144017.29,3,On-site
+EMP-1299,39,Male,Bachelor's,HR,HR Specialist,12.0,101498.39,4,Hybrid
+EMP-1300,41,Female,Bachelor's,HR,HR Specialist,2.3,59832.47,2,Hybrid
+EMP-1301,50,Male,PhD,Data Science,Senior Data Scientist,1.0,102478.62,3,On-site
+EMP-1302,24,Male,PhD,HR,HR Manager,0.0,108872.91,3,Hybrid
+EMP-1303,59,Male,Bachelor's,HR,HR Associate,4.0,68114.9,2,Hybrid
+EMP-1304,40,Male,High School,Finance,Financial Analyst,14.0,114228.23,4,Remote
+EMP-1305,40,Male,Master's,Engineering,Senior Engineer,0.1,81539.65,3,Hybrid
+EMP-1306,33,Female,Bachelor's,Sales,Sales Representative,7.2,94681.79,3,Hybrid
+EMP-1307,27,Male,Bachelor's,Engineering,Software Engineer,3.3,77659.28,3,Remote
+EMP-1308,49,Female,Master's,Executive,Director,10.4,164326.47,1,On-site
+EMP-1309,41,Female,High School,Sales,Sales Associate,21.5,142905.5,4,On-site
+EMP-1310,32,Female,Master's,Engineering,Tech Lead,4.5,118211.92,4,Remote
+EMP-1311,21,Non-binary,Bachelor's,Finance,Finance Manager,0.0,82987.67,3,Hybrid
+EMP-1312,27,Female,Master's,Sales,Sales Representative,0.6,73982.8,3,Remote
+EMP-1313,32,Male,Bachelor's,HR,HR Manager,1.9,88214.74,2,Hybrid
+EMP-1314,44,Female,Bachelor's,Data Science,Data Science Manager,18.2,183519.82,3,Hybrid
+EMP-1315,27,Male,Master's,Data Science,Data Scientist,,78728.55,1,On-site
+EMP-1316,37,Male,Bachelor's,Sales,Sales Representative,14.3,116612.58,3,Remote
+EMP-1317,41,Female,High School,Data Science,Data Analyst,15.4,133342.59,2,Hybrid
+EMP-1318,37,Male,Master's,HR,HR Manager,1.5,101356.35,4,On-site
+EMP-1319,42,Male,Bachelor's,Data Science,Data Science Manager,3.1,111706.25,3,Hybrid
+EMP-1320,44,Female,Bachelor's,Sales,Sales Manager,17.6,161099.13,4,On-site
+EMP-1321,45,Female,Master's,Engineering,Engineering Manager,11.1,160260.7,3,Hybrid
+EMP-1322,31,Female,Bachelor's,Finance,Finance Manager,1.8,96319.05,4,Hybrid
+EMP-1323,23,Male,Master's,Sales,Sales Associate,0.0,65913.69,3,Hybrid
+EMP-1324,46,Female,Bachelor's,Sales,Sales Associate,10.9,98102.9,2,Hybrid
+EMP-1325,21,Male,High School,Sales,Sales Manager,2.4,67536.72,2,Hybrid
+EMP-1326,22,Male,Master's,Data Science,Data Analyst,0.0,87714.8,3,Remote
+EMP-1327,42,Male,High School,Engineering,Engineering Manager,0.8,85073.73,2,Hybrid
+EMP-1328,37,Female,Master's,Sales,Sales Representative,12.9,130200.39,2,Hybrid
+EMP-1329,46,Female,PhD,Finance,Financial Analyst,12.4,140241.32,3,Remote
+EMP-1330,40,Male,Bachelor's,Finance,Financial Analyst,13.1,108536.94,1,Remote
+EMP-1331,31,Male,High School,HR,HR Specialist,8.8,77273.4,2,Hybrid
+EMP-1332,55,Female,Master's,HR,HR Associate,8.5,97272.93,3,On-site
+EMP-1333,43,Female,Bachelor's,Sales,Sales Manager,16.1,159167.8,4,On-site
+EMP-1334,38,Male,Bachelor's,Engineering,Software Engineer,7.1,99009.34,2,Hybrid
+EMP-1335,41,Female,Bachelor's,Executive,Vice President,4.5,140711.03,3,Remote
+EMP-1336,48,Female,High School,HR,HR Associate,24.5,152804.36,2,Hybrid
+EMP-1337,39,Male,Bachelor's,HR,HR Associate,5.1,73284.87,4,Remote
+EMP-1338,55,Female,Bachelor's,Engineering,Senior Engineer,20.7,151031.49,3,Hybrid
+EMP-1339,33,Female,PhD,Sales,Sales Manager,1.9,117525.0,2,Hybrid
+EMP-1340,43,Male,Bachelor's,Sales,Sales Associate,17.8,129613.87,2,Remote
+EMP-1341,59,Female,Master's,Finance,Senior Finance Analyst,33.9,220997.94,4,Hybrid
+EMP-1342,38,Male,Bachelor's,Data Science,Senior Data Scientist,10.3,117941.11,3,On-site
+EMP-1343,27,Female,High School,Data Science,Data Analyst,2.4,60068.5,2,Hybrid
+EMP-1344,41,Female,Master's,Finance,Finance Manager,11.4,142980.88,3,Remote
+EMP-1345,53,Male,PhD,Engineering,Senior Engineer,24.4,185693.75,2,On-site
+EMP-1346,40,Male,PhD,Sales,Sales Associate,9.0,135903.57,4,Hybrid
+EMP-1347,33,Male,Bachelor's,HR,HR Specialist,4.2,73408.95,4,Hybrid
+EMP-1348,36,Male,Bachelor's,Finance,Senior Finance Analyst,6.5,92213.94,3,On-site
+EMP-1349,22,Female,Master's,HR,HR Associate,0.0,76280.55,4,Hybrid
+EMP-1350,31,Male,Bachelor's,Data Science,Data Scientist,0.1,74384.18,3,Hybrid
+EMP-1351,40,Female,Master's,HR,HR Associate,3.1,70990.26,2,Remote
+EMP-1352,37,Female,Bachelor's,Finance,Finance Manager,14.2,151901.6,4,Remote
+EMP-1353,34,Female,Bachelor's,Sales,Sales Representative,2.0,49308.74,3,Hybrid
+EMP-1354,49,Male,Master's,Finance,Finance Manager,23.9,190205.35,1,Hybrid
+EMP-1355,26,Female,High School,Engineering,Software Engineer,3.3,77824.96,2,On-site
+EMP-1356,33,Male,Master's,Engineering,Senior Engineer,4.6,99038.48,3,Hybrid
+EMP-1357,42,Female,Master's,Sales,Sales Manager,8.8,124262.05,3,Remote
+EMP-1358,47,Female,High School,HR,HR Manager,28.3,176520.51,2,Remote
+EMP-1359,33,Female,Master's,Data Science,Data Analyst,,125961.33,4,Hybrid
+EMP-1360,34,Male,Bachelor's,HR,HR Specialist,3.2,61510.19,2,Hybrid
+EMP-1361,58,Male,Bachelor's,Data Science,Senior Data Scientist,24.6,176900.25,3,On-site
+EMP-1362,48,Female,Master's,Engineering,Engineering Manager,9.1,141665.75,3,Hybrid
+EMP-1363,36,Male,High School,Data Science,Data Analyst,9.0,100576.67,3,Hybrid
+EMP-1364,45,Female,Bachelor's,Engineering,Software Engineer,5.3,94655.84,3,On-site
+EMP-1365,37,Female,Bachelor's,HR,HR Associate,13.9,99390.8,3,Hybrid
+EMP-1366,47,Male,Bachelor's,Data Science,Senior Data Scientist,0.4,78668.06,3,Remote
+EMP-1367,21,Male,Master's,Sales,Sales Associate,0.0,72162.46,4,Remote
+EMP-1368,49,Female,Bachelor's,Finance,Senior Finance Analyst,10.4,105356.64,2,Hybrid
+EMP-1369,27,Female,Master's,Engineering,Tech Lead,0.2,114324.19,2,Hybrid
+EMP-1370,36,Female,Bachelor's,Finance,Finance Manager,5.6,114740.41,3,Hybrid
+EMP-1371,42,Male,Bachelor's,Sales,Sales Associate,7.1,90009.77,3,On-site
+EMP-1372,62,Male,Master's,Engineering,Tech Lead,30.3,233466.59,3,Hybrid
+EMP-1373,48,Male,Bachelor's,Data Science,Data Science Manager,8.2,140562.18,4,Remote
+EMP-1374,44,Male,Bachelor's,HR,HR Associate,2.9,71980.59,2,Remote
+EMP-1375,26,Male,Bachelor's,Sales,Sales Associate,0.1,53894.34,3,Hybrid
+EMP-1376,37,Male,Bachelor's,HR,HR Specialist,0.2,55768.14,3,Hybrid
+EMP-1377,42,Female,Master's,Data Science,Data Scientist,12.3,140381.21,4,Remote
+EMP-1378,35,Male,Bachelor's,Data Science,Data Analyst,2.2,87376.82,3,Remote
+EMP-1379,25,Male,Master's,HR,HR Specialist,0.9,72987.04,3,Hybrid
+EMP-1380,35,Female,Bachelor's,Sales,Sales Associate,1.8,67659.67,4,Remote
+EMP-1381,39,Male,Master's,Sales,Sales Representative,6.6,97813.47,3,Hybrid
+EMP-1382,27,Female,Master's,Finance,Financial Analyst,0.9,83347.03,2,Hybrid
+EMP-1383,29,Female,Bachelor's,Data Science,Data Science Manager,6.8,108639.66,2,Remote
+EMP-1384,31,Female,Bachelor's,Finance,Financial Analyst,2.9,80032.09,2,Remote
+EMP-1385,48,Female,Bachelor's,Data Science,Data Scientist,17.7,155854.61,2,Hybrid
+EMP-1386,47,Female,Bachelor's,Sales,Sales Representative,20.8,127363.57,2,Remote
+EMP-1387,60,Female,Master's,Data Science,Senior Data Scientist,8.7,106667.61,2,Hybrid
+EMP-1388,48,Female,Master's,Executive,Vice President,14.0,203105.64,5,Hybrid
+EMP-1389,43,Female,Master's,Engineering,Tech Lead,13.3,165980.49,3,On-site
+EMP-1390,45,Female,PhD,Executive,Director,11.8,950000.0,3,Hybrid
+EMP-1391,37,Female,High School,Sales,Sales Representative,18.3,122175.95,2,Hybrid
+EMP-1392,21,Male,Bachelor's,Finance,Finance Manager,0.0,80068.45,3,Hybrid
+EMP-1393,26,Female,Bachelor's,Sales,Sales Representative,1.6,73072.01,3,Hybrid
+EMP-1394,47,Female,Bachelor's,Engineering,Engineering Manager,2.6,91982.23,1,Hybrid
+EMP-1395,47,Non-binary,Bachelor's,Data Science,Senior Data Scientist,7.8,99412.2,2,Hybrid
+EMP-1396,43,Male,Bachelor's,Sales,Sales Manager,14.6,141952.25,2,Remote
+EMP-1397,24,Male,Master's,Engineering,Software Engineer,0.0,78918.69,2,On-site
+EMP-1398,22,Female,Master's,Data Science,Data Scientist,0.0,82882.17,3,Hybrid
+EMP-1399,43,Female,Bachelor's,Sales,Sales Associate,16.8,136744.84,3,Hybrid
+EMP-1400,39,Male,Master's,Sales,Sales Associate,11.1,114353.79,2,On-site
+EMP-1401,43,Male,Bachelor's,Executive,Director,4.3,136303.55,3,Hybrid
+EMP-1402,30,Female,High School,Engineering,Senior Engineer,4.4,67064.37,2,Remote
+EMP-1403,55,Male,Master's,HR,HR Manager,12.0,133242.57,2,Hybrid
+EMP-1404,30,Male,Bachelor's,Sales,Sales Manager,1.4,87110.3,3,Hybrid
+EMP-1405,50,Female,PhD,Data Science,Senior Data Scientist,2.7,108013.96,2,Remote
+EMP-1406,29,Male,Master's,Finance,Senior Finance Analyst,2.1,77694.41,4,Remote
+EMP-1407,41,Male,Bachelor's,Data Science,Data Scientist,9.3,112542.79,3,Remote
+EMP-1408,36,Male,Bachelor's,Engineering,Tech Lead,13.3,149122.87,3,Hybrid
+EMP-1409,36,Male,Bachelor's,Finance,Finance Manager,9.1,137483.14,3,Hybrid
+EMP-1410,32,Female,Master's,Sales,Sales Representative,1.3,71930.31,2,Hybrid
+EMP-1411,63,Female,Bachelor's,Executive,Director,22.0,217234.7,2,Remote
+EMP-1412,54,Male,Master's,Finance,Finance Manager,3.4,112693.9,2,Remote
+EMP-1413,54,Female,Master's,Engineering,Engineering Manager,16.4,169658.52,2,On-site
+EMP-1414,32,Male,Master's,Data Science,Senior Data Scientist,7.0,105504.33,2,Remote
+EMP-1415,25,Male,Master's,Engineering,Engineering Manager,0.9,104160.16,3,Remote
+EMP-1416,40,Female,Bachelor's,Finance,Finance Manager,6.3,108445.28,1,Hybrid
+EMP-1417,46,Female,Bachelor's,Executive,Director,19.5,196144.34,1,On-site
+EMP-1418,50,Female,Bachelor's,Data Science,Senior Data Scientist,27.4,193115.43,2,Remote
+EMP-1419,42,Female,PhD,Engineering,Senior Engineer,14.4,152145.39,2,Hybrid
+EMP-1420,43,Female,PhD,Data Science,Data Scientist,4.0,118032.54,3,Hybrid
+EMP-1421,28,Female,Master's,Sales,Sales Representative,0.6,64037.71,3,Hybrid
+EMP-1422,36,Female,Bachelor's,Engineering,Software Engineer,5.6,84106.82,2,Hybrid
+EMP-1423,50,Female,Master's,Sales,Sales Representative,15.1,140074.83,4,On-site
+EMP-1424,27,Female,High School,sales,Sales Manager,6.0,104478.59,2,Hybrid
+EMP-1425,39,Male,Bachelor's,   Data Science  ,Data Science Manager,14.0,163159.91,5,Hybrid
+EMP-1426,39,Male,Bachelor's,Finance,Finance Manager,2.2,93041.25,2,On-site
+EMP-1427,36,Female,Master's,Engineering,Software Engineer,1.2,90780.21,3,Hybrid
+EMP-1428,30,Male,Bachelor's,Data Science,Data Science Manager,3.7,97522.77,2,On-site
+EMP-1429,43,Male,PhD,HR,HR Associate,14.0,122882.66,2,On-site
+EMP-1430,41,Male,Bachelor's,Executive,Director,1.0,128163.57,5,Hybrid
+EMP-1431,46,Female,Master's,Engineering,Software Engineer,0.0,79406.66,3,Hybrid
+EMP-1432,47,Male,Bachelor's,Engineering,Software Engineer,17.4,139684.35,2,On-site
+EMP-1433,41,Non-binary,Bachelor's,Executive,Director,4.3,139012.25,2,Remote
+EMP-1434,36,Female,Bachelor's,hr,HR Specialist,1.9,61199.06,2,Hybrid
+EMP-1435,29,Female,Bachelor's,Data Science,Data Analyst,3.7,86485.29,3,Remote
+EMP-1436,48,Female,Bachelor's,Data Science,Data Science Manager,16.0,163049.84,3,Hybrid
+EMP-1437,46,Male,Master's,Executive,Director,13.0,190946.86,4,Hybrid
+EMP-1438,38,Non-binary,Bachelor's,Data Science,Data Scientist,4.4,80089.32,2,Remote
+EMP-1439,34,Female,Bachelor's,Finance,Senior Finance Analyst,9.3,95938.17,2,Hybrid
+EMP-1440,38,Female,Master's,HR,HR Associate,7.2,94817.01,3,Hybrid
+EMP-1441,42,Female,Bachelor's,Executive,Director,9.9,147727.2,3,Remote
+EMP-1442,28,Female,Bachelor's,Finance,Financial Analyst,5.9,78521.83,3,On-site
+EMP-1443,43,Male,Master's,HR,HR Manager,13.0,154912.57,4,Hybrid
+EMP-1444,35,Female,Master's,Engineering,Software Engineer,0.2,84732.0,4,Remote
+EMP-1445,34,Female,PhD,Sales,Sales Manager,2.0,113585.18,2,Hybrid
+EMP-1446,34,Female,Bachelor's,Sales,Sales Associate,7.7,91303.44,3,Hybrid
+EMP-1447,38,Male,High School,Engineering,Senior Engineer,19.5,149043.88,3,Remote
+EMP-1448,47,Male,Bachelor's,Engineering,Tech Lead,17.5,148176.47,2,Hybrid
+EMP-1449,47,Female,High School,Executive,Vice President,3.4,119931.41,2,Hybrid
+EMP-1450,26,Male,Master's,Data Science,Data Analyst,0.0,80248.78,1,Remote
+EMP-1451,45,Male,Bachelor's,Finance,Finance Manager,6.0,92653.75,2,Hybrid
+EMP-1452,32,Female,Master's,Engineering,Software Engineer,2.7,82466.53,3,Hybrid
+EMP-1453,39,Female,Bachelor's,finance,Finance Manager,1.3,94935.75,3,Hybrid
+EMP-1454,39,Male,Bachelor's,Finance,Financial Analyst,,91639.43,2,Remote
+EMP-1455,36,Male,Bachelor's,Engineering,Senior Engineer,10.4,106080.39,3,Remote
+EMP-1456,33,Female,High School,Engineering,Engineering Manager,,104062.32,2,On-site
+EMP-1457,55,Male,PhD,Executive,Vice President,6.3,158778.63,2,Remote
+EMP-1458,52,Female,Bachelor's,Finance,Senior Finance Analyst,3.6,72105.56,3,Hybrid
+EMP-1459,48,Male,Bachelor's,Engineering,Engineering Manager,1.8,108516.06,2,Hybrid
+EMP-1460,44,Male,Master's,Finance,Senior Finance Analyst,0.2,83783.85,2,Remote
+EMP-1461,31,Female,Bachelor's,Finance,Financial Analyst,4.2,80435.76,3,Hybrid
+EMP-1462,51,Female,Master's,Finance,Financial Analyst,4.1,93412.02,4,On-site
+EMP-1463,30,Male,Bachelor's,Engineering,Tech Lead,0.0,88933.71,3,Hybrid
+EMP-1464,58,Female,Master's,Executive,Director,14.3,187868.07,3,On-site
+EMP-1465,39,Non-binary,Bachelor's,HR,HR Associate,0.7,47110.32,2,Remote
+EMP-1466,50,Female,Bachelor's,Sales,Sales Manager,2.4,83798.53,2,Remote
+EMP-1467,43,Male,Master's,Executive,Director,8.3,172173.72,4,On-site
+EMP-1468,47,Male,Bachelor's,Sales,Sales Manager,20.8,158829.14,2,Remote
+EMP-1469,53,Male,Bachelor's,Data Science,Data Analyst,4.8,86655.0,2,Remote
+EMP-1470,51,Male,Bachelor's,Data Science,Data Science Manager,8.9,136115.33,3,Remote
+EMP-1471,59,Male,Bachelor's,Finance,Financial Analyst,8.0,97167.04,2,On-site
+EMP-1472,38,Male,Master's,HR,HR Specialist,7.2,104410.81,3,Hybrid
+EMP-1473,43,Male,PhD,Executive,Vice President,13.7,208975.04,3,Hybrid
+EMP-1474,34,Female,High School,Engineering,Senior Engineer,1.9,58711.14,2,Remote
+EMP-1475,21,Female,Bachelor's,Data Science,Data Science Manager,0.0,92380.75,4,Hybrid
+EMP-1476,35,Female,Bachelor's,Finance,Finance Manager,3.4,99124.44,2,On-site
+EMP-1477,46,Male,High School,Sales,Sales Associate,2.6,57421.54,3,On-site
+EMP-1478,36,Female,Bachelor's,Sales,Sales Associate,2.4,66587.85,3,Hybrid
+EMP-1479,54,Female,Bachelor's,Executive,Vice President,5.5,145509.27,3,Remote
+EMP-1480,44,Male,Bachelor's,Engineering,Senior Engineer,14.2,131726.13,4,Hybrid
+EMP-1481,25,Female,Bachelor's,Engineering,Tech Lead,1.1,93711.86,3,Hybrid
+EMP-1482,32,Female,Master's,Data Science,Data Analyst,7.9,123609.7,3,Hybrid
+EMP-1483,38,Male,Bachelor's,Sales,Sales Representative,14.6,129533.29,3,Hybrid
+EMP-1484,40,Male,Bachelor's,HR,HR Manager,3.9,103773.06,5,On-site
+EMP-1485,21,Female,High School,Sales,Sales Manager,1.1,81906.95,3,Hybrid
+EMP-1486,50,Male,Bachelor's,Data Science,Senior Data Scientist,14.9,132749.26,3,Hybrid
+EMP-1487,25,Female,Master's,Data Science,Data Science Manager,0.4,104576.88,3,On-site
+EMP-1488,32,Female,Bachelor's,Finance,Senior Finance Analyst,8.1,105039.43,3,Hybrid
+EMP-1489,41,Female,High School,Finance,Finance Manager,3.3,91527.62,2,On-site
+EMP-1490,49,Female,Master's,Finance,Senior Finance Analyst,4.4,87675.9,2,Remote
+EMP-1491,38,Male,Bachelor's,Engineering,Engineering Manager,0.0,93889.68,2,On-site
+EMP-1492,36,Male,Bachelor's,Data Science,Senior Data Scientist,0.8,69035.05,3,Remote
+EMP-1493,33,Female,Bachelor's,Engineering,Tech Lead,10.6,135283.0,3,Hybrid
+EMP-1494,55,Female,Bachelor's,Executive,Vice President,10.6,160868.11,2,On-site
+EMP-1495,47,Female,Bachelor's,Sales,Sales Manager,7.9,102615.15,2,Hybrid
+EMP-1496,22,Female,Master's,Finance,Senior Finance Analyst,0.0,72688.85,4,Remote
+EMP-1497,63,Female,Bachelor's,HR,HR Associate,7.3,81767.31,2,Remote
+EMP-1498,53,Female,Bachelor's,Finance,Financial Analyst,5.6,99889.02,4,Remote
+EMP-1499,50,Female,Bachelor's,Engineering,Engineering Manager,3.9,115935.16,4,Hybrid
+EMP-1500,45,Male,PhD,Engineering,Tech Lead,8.0,145690.81,2,Remote
+EMP-1501,37,Male,High School,HR,HR Associate,13.7,99820.63,3,Remote
+EMP-1502,44,Male,Bachelor's,Sales,Sales Representative,19.4,140010.44,3,Hybrid
+EMP-1503,52,Male,Master's,Finance,Finance Manager,21.2,182878.04,2,Remote
+EMP-1504,30,Male,Master's,Engineering,Tech Lead,0.1,98923.92,1,Remote
+EMP-1505,36,Male,Bachelor's,Sales,Sales Associate,10.2,107624.87,4,Hybrid
+EMP-1506,27,Female,High School,Finance,Finance Manager,8.0,121926.2,4,Hybrid
+EMP-1507,43,Male,Master's,Sales,Sales Associate,1.0,68443.36,3,Remote
+EMP-1508,34,Non-binary,Bachelor's,Finance,Finance Manager,11.1,146927.52,4,Hybrid
+EMP-1509,53,Female,Bachelor's,Executive,Vice President,17.7,182622.3,2,On-site
+EMP-1510,39,Male,Bachelor's,Sales,Sales Associate,5.0,74939.01,1,Hybrid
+EMP-1511,36,Female,Bachelor's,Engineering,Senior Engineer,2.4,65511.78,2,Remote
+EMP-1512,43,Male,Master's,Sales,Sales Representative,9.3,99040.5,2,Hybrid
+EMP-1513,21,Male,Bachelor's,Data Science,Senior Data Scientist,0.0,81633.51,3,On-site
+EMP-1514,54,Male,Bachelor's,Sales,Sales Representative,7.2,81626.73,2,Remote
+EMP-1515,42,Male,Master's,Engineering,Tech Lead,14.5,164710.75,2,Hybrid
+EMP-1516,45,Female,Bachelor's,Executive,Vice President,18.8,199359.08,4,Hybrid
+EMP-1517,35,Female,Master's,Sales,Sales Manager,9.7,127778.72,2,Hybrid
+EMP-1518,35,Male,PhD,Engineering,Senior Engineer,1.0,104681.51,3,Hybrid
+EMP-1519,29,Male,PhD,Data Science,Data Scientist,0.3,100633.26,4,Hybrid
+EMP-1520,37,Non-binary,Bachelor's,Data Science,Senior Data Scientist,4.8,73614.56,2,Hybrid
+EMP-1521,46,Female,High School,Finance,Senior Finance Analyst,24.0,152112.03,3,Hybrid
+EMP-1522,38,Female,High School,Finance,Finance Manager,10.5,112724.72,3,Hybrid
+EMP-1523,32,Male,Bachelor's,Finance,Finance Manager,7.6,110394.26,3,On-site
+EMP-1524,40,Female,Bachelor's,Engineering,Tech Lead,15.6,158318.58,2,On-site
+EMP-1525,37,Female,Bachelor's,Sales,Sales Manager,9.1,122208.44,1,Remote
+EMP-1526,30,Male,Bachelor's,Finance,Finance Manager,5.5,107303.42,2,Remote
+EMP-1527,49,Female,Bachelor's,Sales,Sales Representative,24.2,157010.08,2,Remote
+EMP-1528,42,Female,Bachelor's,Sales,Sales Manager,13.7,141598.65,3,On-site
+EMP-1529,34,Male,Bachelor's,Sales,Sales Representative,3.2,68956.86,2,Hybrid
+EMP-1530,27,Female,Bachelor's,Data Science,Data Science Manager,3.7,108159.36,1,Hybrid
+EMP-1531,47,Female,Master's,Data Science,Data Analyst,7.2,101181.62,1,Hybrid
+EMP-1532,44,Male,Master's,Engineering,Senior Engineer,3.9,99504.76,4,On-site
+EMP-1533,30,Female,Bachelor's,Sales,Sales Associate,7.3,96909.26,3,Hybrid
+EMP-1534,31,Male,Master's,Finance,Senior Finance Analyst,4.4,85583.54,2,Remote
+EMP-1535,28,Male,Bachelor's,Finance,Senior Finance Analyst,1.1,75368.07,3,On-site
+EMP-1536,41,Female,Bachelor's,HR,HR Manager,15.8,139609.13,2,Remote
+EMP-1537,22,Male,High School,Finance,Financial Analyst,3.4,66812.98,3,Hybrid
+EMP-1538,36,Female,Bachelor's,Sales,Sales Manager,0.3,92052.52,5,Hybrid
+EMP-1539,30,Female,High School,Data Science,Data Scientist,7.2,97130.67,2,Remote
+EMP-1540,39,Male,Master's,HR,HR Manager,14.5,153415.37,2,Hybrid
+EMP-1541,31,Male,Bachelor's,HR,HR Specialist,2.3,72140.29,4,Hybrid
+EMP-1542,33,Female,Master's,Sales,Sales Manager,0.9,102187.13,4,Hybrid
+EMP-1543,46,Female,Master's,Finance,Finance Manager,6.2,118961.86,3,Hybrid
+EMP-1544,31,Female,Bachelor's,HR,HR Manager,2.9,91171.35,4,Remote
+EMP-1545,33,Female,PhD,HR,HR Associate,0.9,83321.59,2,Hybrid
+EMP-1546,58,Female,Master's,Finance,Senior Finance Analyst,22.5,164645.32,2,Hybrid
+EMP-1547,52,Female,Master's,HR,HR Specialist,11.3,115174.23,3,Hybrid
+EMP-1548,27,Female,PhD,Data Science,Senior Data Scientist,0.0,96877.13,3,Hybrid
+EMP-1549,47,Male,Bachelor's,HR,HR Manager,7.5,128037.38,4,Remote
+EMP-1550,43,Female,Bachelor's,Sales,Sales Associate,15.6,124686.31,3,Hybrid
+EMP-1551,34,Female,PhD,HR,HR Manager,0.6,105747.59,3,Hybrid
+EMP-1552,39,Female,Bachelor's,HR,HR Specialist,4.4,68440.74,4,Remote
+EMP-1553,49,Female,Bachelor's,Finance,Finance Manager,25.5,195391.59,4,Remote
+EMP-1554,21,Female,Bachelor's,Sales,Sales Manager,0.0,87781.97,2,Remote
+EMP-1555,37,Male,Master's,Data Science,Data Scientist,4.5,95871.35,2,On-site
+EMP-1556,46,Female,PhD,Executive,Director,14.8,205726.41,3,Hybrid
+EMP-1557,34,Female,Bachelor's,Engineering,Software Engineer,5.4,82145.54,2,Remote
+EMP-1558,54,Female,Bachelor's,Engineering,Senior Engineer,19.7,155042.95,2,Hybrid
+EMP-1559,53,Male,PhD,Engineering,Senior Engineer,19.0,172210.28,3,On-site
+EMP-1560,42,Female,Master's,Engineering,Software Engineer,11.3,122037.79,3,Remote
+EMP-1561,41,Female,Bachelor's,Executive,Vice President,9.6,162446.08,2,Remote
+EMP-1562,33,Male,High School,HR,HR Specialist,10.9,92479.73,3,Hybrid
+EMP-1563,35,Male,Master's,Data Science,Senior Data Scientist,11.0,126350.58,3,Hybrid
+EMP-1564,46,Female,Bachelor's,Sales,Sales Associate,5.5,78858.28,2,Hybrid
+EMP-1565,57,Male,Master's,Data Science,Data Analyst,12.1,126753.53,2,Hybrid
+EMP-1566,43,Male,Master's,Finance,Finance Manager,0.9,103883.78,3,On-site
+EMP-1567,42,Female,Master's,Executive,Director,7.5,168158.2,3,Hybrid
+EMP-1568,42,Female,Bachelor's,Engineering,Tech Lead,8.4,132315.44,3,Remote
+EMP-1569,56,Female,Bachelor's,Sales,Sales Associate,17.4,125232.82,3,Hybrid
+EMP-1570,49,Male,Master's,Finance,Financial Analyst,19.4,141443.98,3,On-site
+EMP-1571,46,Non-binary,Bachelor's,Data Science,Data Analyst,13.2,122896.8,2,On-site
+EMP-1572,41,Female,Bachelor's,Engineering,Software Engineer,17.2,144496.71,3,On-site
+EMP-1573,33,Female,Bachelor's,Engineering,Software Engineer,8.0,100042.72,3,Remote
+EMP-1574,45,Male,Bachelor's,HR,HR Specialist,,92327.37,3,Remote
+EMP-1575,48,Male,High School,HR,HR Specialist,22.2,140088.35,2,Remote
+EMP-1576,41,Female,High School,Data Science,Senior Data Scientist,8.2,99099.2,4,Hybrid
+EMP-1577,34,Female,Master's,Engineering,Tech Lead,8.1,137200.92,3,Remote
+EMP-1578,45,Male,PhD,Sales,Sales Manager,15.3,161937.91,1,Hybrid
+EMP-1579,27,Female,Master's,Engineering,Senior Engineer,2.1,99083.68,3,Remote
+EMP-1580,36,Female,Bachelor's,Sales,Sales Manager,6.8,111980.31,3,Hybrid
+EMP-1581,49,Male,Bachelor's,Finance,Financial Analyst,23.3,157290.21,2,On-site
+EMP-1582,47,Female,Master's,Sales,Sales Associate,20.4,156817.49,3,Hybrid
+EMP-1583,48,Male,Master's,Executive,Director,23.5,226767.25,1,Hybrid
+EMP-1584,31,Male,Bachelor's,Finance,Financial Analyst,3.9,74447.22,1,Hybrid
+EMP-1585,51,Female,Master's,Data Science,Data Analyst,0.3,89977.25,3,On-site
+EMP-1586,54,Female,Bachelor's,Data Science,Data Analyst,24.0,184639.79,4,Remote
+EMP-1587,45,Male,Bachelor's,Finance,Finance Manager,8.7,112928.21,3,On-site
+EMP-1588,35,Male,Bachelor's,Finance,Senior Finance Analyst,1.1,75645.66,2,Hybrid
+EMP-1589,36,Male,PhD,Engineering,Software Engineer,3.6,113428.91,3,Remote
+EMP-1590,38,Female,Master's,Finance,Finance Manager,8.9,134644.1,4,On-site
+EMP-1591,39,Female,Master's,Sales,Sales Representative,5.5,82179.86,2,Remote
+EMP-1592,31,Male,Bachelor's,Finance,Finance Manager,5.4,106104.19,3,Hybrid
+EMP-1593,31,Male,Bachelor's,Engineering,Senior Engineer,0.0,64501.37,2,Hybrid
+EMP-1594,22,Female,Master's,Finance,Finance Manager,0.0,98494.64,3,Hybrid
+EMP-1595,23,Male,Master's,Sales,Sales Associate,0.0,62487.06,2,On-site
+EMP-1596,41,Female,Bachelor's,Data Science,Data Scientist,2.3,72408.97,4,On-site
+EMP-1597,39,Male,Master's,Data Science,Senior Data Scientist,1.6,93748.04,3,Hybrid
+EMP-1598,40,Female,Master's,Finance,Financial Analyst,12.4,120165.68,2,Hybrid
+EMP-1599,30,Female,PhD,Data Science,Data Science Manager,0.0,126127.87,4,Hybrid
+EMP-1600,57,Female,Bachelor's,Finance,Financial Analyst,24.2,158389.56,3,Remote
+EMP-1601,22,Female,Bachelor's,Finance,Finance Manager,0.0,70495.18,1,On-site
+EMP-1602,40,Female,Bachelor's,Finance,Finance Manager,13.7,134052.86,3,Remote
+EMP-1603,46,Non-binary,PhD,Data Science,Data Scientist,7.8,128640.76,2,Hybrid
+EMP-1604,54,Female,Bachelor's,HR,HR Manager,23.6,175508.82,3,Hybrid
+EMP-1605,29,Male,Bachelor's,HR,HR Manager,2.4,77765.08,1,Hybrid
+EMP-1606,35,Non-binary,Master's,Data Science,Senior Data Scientist,7.8,111972.46,2,Hybrid
+EMP-1607,38,Female,Bachelor's,Sales,Sales Manager,12.0,129499.98,3,On-site
+EMP-1608,39,Male,Master's,Engineering,Software Engineer,0.4,75137.61,3,Remote
+EMP-1609,52,Female,Bachelor's,Data Science,Senior Data Scientist,20.5,157213.1,3,Remote
+EMP-1610,45,Male,Master's,Finance,Financial Analyst,7.5,110218.82,3,Hybrid
+EMP-1611,40,Female,Master's,Finance,Financial Analyst,11.9,122149.02,2,Hybrid
+EMP-1612,26,Male,Master's,HR,HR Manager,1.3,95260.62,3,On-site
+EMP-1613,35,Male,PhD,HR,HR Manager,0.4,95388.91,3,Hybrid
+EMP-1614,32,Male,Master's,Sales,Sales Associate,7.3,101619.14,3,Hybrid
+EMP-1615,27,Female,Master's,Finance,Finance Manager,1.8,103362.95,4,Hybrid
+EMP-1616,47,Non-binary,Bachelor's,Engineering,Senior Engineer,24.1,165342.64,3,Hybrid
+EMP-1617,55,Male,High School,HR,HR Associate,6.0,72714.93,2,On-site
+EMP-1618,48,Male,Bachelor's,Engineering,Senior Engineer,24.1,174574.79,2,Hybrid
+EMP-1619,35,Female,Bachelor's,HR,HR Specialist,10.3,97821.93,3,Hybrid
+EMP-1620,36,Male,Master's,Finance,Financial Analyst,11.5,126060.93,3,Hybrid
+EMP-1621,21,Female,Bachelor's,Finance,Finance Manager,0.0,79025.05,4,Hybrid
+EMP-1622,48,Male,Master's,HR,HR Specialist,7.0,90854.2,4,On-site
+EMP-1623,33,Female,Bachelor's,Finance,Finance Manager,0.1,82130.47,2,Hybrid
+EMP-1624,34,Male,PhD,Finance,Finance Manager,1.7,128001.85,3,Remote
+EMP-1625,51,Female,Bachelor's,Engineering,Engineering Manager,7.4,119824.67,2,Hybrid
+EMP-1626,21,Male,Bachelor's,HR,HR Manager,0.0,80789.11,2,On-site
+EMP-1627,54,Male,High School,Data Science,Senior Data Scientist,18.5,134145.21,2,On-site
+EMP-1628,37,Male,PhD,Finance,Finance Manager,0.1,108562.38,3,Remote
+EMP-1629,42,Female,Master's,Sales,Sales Associate,3.7,82453.29,2,On-site
+EMP-1630,43,Female,Master's,Engineering,Senior Engineer,0.5,79481.68,3,Hybrid
+EMP-1631,36,Male,High School,Data Science,Senior Data Scientist,10.0,102779.93,3,Hybrid
+EMP-1632,35,Male,Bachelor's,Sales,Sales Representative,8.2,98805.52,4,Hybrid
+EMP-1633,35,Male,Master's,Finance,Financial Analyst,7.1,100817.08,3,Hybrid
+EMP-1634,49,Female,Bachelor's,Engineering,Tech Lead,25.1,197776.19,3,Remote
+EMP-1635,42,Female,Bachelor's,Executive,Vice President,7.6,137159.4,1,On-site
+EMP-1636,26,Male,Bachelor's,Data Science,Data Scientist,3.0,93995.09,3,Hybrid
+EMP-1637,60,Female,Bachelor's,HR,HR Manager,33.7,222545.07,3,On-site
+EMP-1638,21,Female,Bachelor's,Engineering,Senior Engineer,0.0,60273.3,2,Remote
+EMP-1639,31,Male,Bachelor's,Finance,Finance Manager,8.5,118867.46,3,Remote
+EMP-1640,21,Female,PhD,HR,HR Associate,0.0,73563.54,3,Hybrid
+EMP-1641,40,Female,Bachelor's,Data Science,Data Scientist,4.0,85283.69,4,On-site
+EMP-1642,21,Male,Bachelor's,Finance,Financial Analyst,0.0,64605.76,2,On-site
+EMP-1643,57,Female,PhD,Finance,Financial Analyst,8.7,124520.2,2,Remote
+EMP-1644,33,Male,Master's,Sales,Sales Representative,3.2,99306.06,3,Hybrid
+EMP-1645,22,Male,Bachelor's,Engineering,Senior Engineer,0.0,70806.16,3,Remote
+EMP-1646,48,Male,Bachelor's,Finance,Financial Analyst,14.7,124588.3,3,Hybrid
+EMP-1647,34,Male,Bachelor's,Engineering,Tech Lead,3.0,103540.85,3,Remote
+EMP-1648,44,Female,Bachelor's,Data Science,Senior Data Scientist,19.3,151322.6,2,Hybrid
+EMP-1649,37,Male,Bachelor's,Finance,Financial Analyst,2.6,74611.64,4,Hybrid
+EMP-1650,21,Female,Master's,Data Science,Data Scientist,0.0,80565.61,4,Remote
+EMP-1651,31,Female,High School,Engineering,Software Engineer,11.0,111446.63,2,Hybrid
+EMP-1652,21,Female,Bachelor's,Finance,Financial Analyst,0.0,73336.34,5,On-site
+EMP-1653,40,Female,Bachelor's,Finance,Senior Finance Analyst,11.8,112273.32,3,Remote
+EMP-1654,43,Male,Master's,HR,HR Associate,8.8,105293.63,3,Hybrid
+EMP-1655,38,Male,Bachelor's,Data Science,Data Scientist,12.1,120912.36,3,Remote
+EMP-1656,36,Male,Bachelor's,Finance,Finance Manager,12.2,143801.34,4,Remote
+EMP-1657,21,Female,PhD,Engineering,Senior Engineer,0.0,96168.42,3,Hybrid
+EMP-1658,37,Male,Bachelor's,Data Science,Data Analyst,10.0,116744.68,2,Hybrid
+EMP-1659,47,Female,Bachelor's,Engineering,Software Engineer,24.5,170342.31,2,Remote
+EMP-1660,28,Female,Bachelor's,HR,HR Manager,1.6,77959.7,2,Hybrid
+EMP-1661,46,Male,Master's,Engineering,Tech Lead,8.3,142938.51,3,On-site
+EMP-1662,45,Female,Bachelor's,Sales,Sales Representative,20.4,139831.11,3,Remote
+EMP-1663,42,Female,Bachelor's,Finance,Finance Manager,5.6,114045.75,3,Remote
+EMP-1664,49,Male,Bachelor's,Data Science,Data Science Manager,21.9,190088.69,3,Hybrid
+EMP-1665,48,Female,Bachelor's,Data Science,Data Science Manager,0.6,93228.75,3,Remote
+EMP-1666,36,Female,Bachelor's,Finance,Financial Analyst,12.5,106448.93,2,Remote
+EMP-1667,36,Male,PhD,Finance,Senior Finance Analyst,5.4,105832.23,2,Hybrid
+EMP-1668,21,Male,Master's,HR,HR Associate,0.0,65007.23,3,Remote
+EMP-1669,29,Female,Bachelor's,Sales,Sales Associate,1.5,69925.42,3,Hybrid
+EMP-1670,21,Male,Bachelor's,Data Science,Senior Data Scientist,0.0,63385.15,2,Remote
+EMP-1671,28,Female,PhD,Finance,Finance Manager,0.1,112257.04,3,Hybrid
+EMP-1672,35,Male,High School,Finance,Finance Manager,11.6,124532.51,1,On-site
+EMP-1673,25,Female,Bachelor's,Finance,Finance Manager,0.1,88084.26,3,Hybrid
+EMP-1674,51,Female,Bachelor's,Data Science,Data Analyst,26.0,159082.93,2,Hybrid
+EMP-1675,39,Female,Bachelor's,HR,HR Associate,11.9,113413.68,4,Hybrid
+EMP-1676,40,Female,Bachelor's,Sales,Sales Representative,10.6,104362.74,2,Hybrid
+EMP-1677,28,Female,Master's,Engineering,Engineering Manager,0.5,110132.82,3,Hybrid
+EMP-1678,48,Male,Master's,Finance,Senior Finance Analyst,6.2,107394.5,5,Remote
+EMP-1679,32,Female,High School,Finance,Financial Analyst,7.3,73045.54,3,Hybrid
+EMP-1680,31,Male,Master's,Sales,Sales Representative,0.7,66795.47,2,Hybrid
+EMP-1681,39,Female,Bachelor's,Finance,Senior Finance Analyst,9.6,105046.18,2,Hybrid
+EMP-1682,38,Non-binary,Bachelor's,Data Science,Data Science Manager,8.8,130992.63,3,Hybrid
+EMP-1683,39,Male,Bachelor's,Sales,Sales Representative,16.8,123357.22,3,Hybrid
+EMP-1684,31,Female,Bachelor's,Data Science,Data Analyst,6.7,88064.77,2,Hybrid
+EMP-1685,29,Female,Bachelor's,Data Science,Data Science Manager,5.5,121346.34,2,On-site
+EMP-1686,40,Female,Master's,Engineering,Senior Engineer,6.2,111145.39,3,Hybrid
+EMP-1687,36,Female,Master's,Sales,Sales Manager,5.2,116220.67,3,Remote
+EMP-1688,40,Male,High School,Engineering,Engineering Manager,20.5,153467.1,2,Hybrid
+EMP-1689,36,Female,Bachelor's,Finance,Financial Analyst,13.2,124997.29,4,On-site
+EMP-1690,47,Female,Bachelor's,Finance,Senior Finance Analyst,4.9,85111.95,4,Hybrid
+EMP-1691,39,Female,Master's,Finance,Financial Analyst,10.1,110523.56,2,Hybrid
+EMP-1692,44,Female,PhD,Executive,Vice President,13.3,203023.32,4,Hybrid
+EMP-1693,33,Male,Bachelor's,Finance,Financial Analyst,8.1,98627.24,3,Remote
+EMP-1694,23,Male,Bachelor's,Finance,Finance Manager,0.3,77956.78,1,On-site
+EMP-1695,25,Male,Bachelor's,Data Science,Data Science Manager,2.8,103873.32,2,Hybrid
+EMP-1696,33,Male,Bachelor's,Engineering,Software Engineer,5.5,96060.47,4,Remote
+EMP-1697,41,Male,Bachelor's,Finance,Finance Manager,4.8,99327.0,3,Hybrid
+EMP-1698,48,Male,Bachelor's,HR,HR Specialist,17.7,131362.88,3,On-site
+EMP-1699,27,Female,Bachelor's,HR,HR Associate,1.9,59887.34,1,Hybrid
+EMP-1700,41,Male,Master's,Sales,Sales Representative,8.8,98742.02,2,Remote
+EMP-1701,49,Female,Bachelor's,Executive,Vice President,2.1,133676.04,2,On-site
+EMP-1702,28,Male,Bachelor's,Finance,Senior Finance Analyst,1.1,63648.29,3,Hybrid
+EMP-1703,44,Female,Bachelor's,Data Science,Data Scientist,19.2,147663.24,2,Remote
+EMP-1704,38,Male,Bachelor's,Finance,Senior Finance Analyst,2.5,72944.95,2,Remote
+EMP-1705,32,Female,Master's,Sales,Sales Manager,0.1,89453.9,3,On-site
+EMP-1706,21,Female,Master's,HR,HR Manager,0.0,104475.69,3,Remote
+EMP-1707,45,Female,Master's,HR,HR Specialist,3.8,79382.66,3,Hybrid
+EMP-1708,38,Female,Bachelor's,Finance,Financial Analyst,0.9,57695.12,3,Hybrid
+EMP-1709,49,Male,Bachelor's,Sales,Sales Manager,20.9,175089.11,3,Hybrid
+EMP-1710,42,Male,Bachelor's,Engineering,Software Engineer,13.5,128737.17,3,Hybrid
+EMP-1711,43,Male,Bachelor's,Data Science,Senior Data Scientist,5.0,85558.39,2,Hybrid
+EMP-1712,39,Female,Bachelor's,Sales,Sales Representative,3.6,68685.36,4,Hybrid
+EMP-1713,23,Male,Master's,HR,HR Specialist,0.0,65305.33,3,Remote
+EMP-1714,39,Male,Bachelor's,Data Science,Data Analyst,12.3,121320.79,3,On-site
+EMP-1715,52,Female,Master's,Data Science,Data Science Manager,22.6,191949.02,1,Remote
+EMP-1716,36,Female,PhD,Finance,Finance Manager,6.5,133244.87,1,Hybrid
+EMP-1717,54,Male,Bachelor's,Sales,Sales Associate,22.1,152204.21,3,Remote
+EMP-1718,25,Female,Bachelor's,Engineering,Engineering Manager,2.2,96988.82,2,Remote
+EMP-1719,34,Male,Bachelor's,HR,HR Specialist,0.2,60186.15,4,Remote
+EMP-1720,26,Female,PhD,Data Science,Data Scientist,0.0,100989.33,3,On-site
+EMP-1721,49,Male,Bachelor's,Sales,Sales Associate,10.3,98169.43,4,Remote
+EMP-1722,29,Female,Bachelor's,Data Science,Senior Data Scientist,3.0,79195.88,2,Hybrid
+EMP-1723,42,Male,PhD,Executive,Vice President,3.4,158824.29,3,Remote
+EMP-1724,34,Male,Bachelor's,Sales,Sales Representative,10.7,97929.14,3,Hybrid
+EMP-1725,58,Female,Master's,Sales,Sales Representative,5.7,89048.44,1,On-site
+EMP-1726,58,Male,Bachelor's,Engineering,Senior Engineer,6.0,92059.77,3,Remote
+EMP-1727,34,Male,Master's,Finance,Financial Analyst,0.3,82497.09,3,Hybrid
+EMP-1728,21,Female,High School,HR,HR Manager,0.5,66556.26,4,Hybrid
+EMP-1729,35,Female,Bachelor's,Data Science,Senior Data Scientist,5.8,95891.32,2,Remote
+EMP-1730,22,Female,Bachelor's,Engineering,Tech Lead,0.0,105145.86,3,On-site
+EMP-1731,24,Male,Bachelor's,Finance,Senior Finance Analyst,1.1,61648.11,3,Remote
+EMP-1732,42,Female,Bachelor's,Sales,Sales Manager,15.0,142151.08,3,On-site
+EMP-1733,42,Male,Bachelor's,HR,HR Specialist,10.8,100214.58,4,On-site
+EMP-1734,45,Male,Bachelor's,HR,HR Associate,0.0,44261.38,2,On-site
+EMP-1735,42,Female,Bachelor's,Engineering,Engineering Manager,18.9,177513.68,4,Hybrid
+EMP-1736,34,Male,Bachelor's,HR,HR Manager,2.8,82257.55,3,Remote
+EMP-1737,44,Male,Bachelor's,Sales,Sales Associate,3.6,70407.46,3,Hybrid
+EMP-1738,33,Male,Bachelor's,HR,HR Associate,4.6,69699.68,3,Remote
+EMP-1739,37,Female,PhD,HR,HR Specialist,6.5,108817.85,4,Hybrid
+EMP-1740,34,Male,Bachelor's,Engineering,Senior Engineer,1.6,76185.15,2,Remote
+EMP-1741,36,Male,Bachelor's,Finance,Senior Finance Analyst,2.6,76847.82,2,Remote
+EMP-1742,52,Male,Bachelor's,Engineering,Tech Lead,8.1,112820.76,2,Hybrid
+EMP-1743,48,Female,Bachelor's,Sales,Sales Associate,8.9,97123.75,2,Remote
+EMP-1744,21,Female,PhD,Sales,Sales Manager,0.0,102732.97,3,Hybrid
+EMP-1745,45,Male,Master's,engineering,Tech Lead,,167736.36,3,Remote
+EMP-1746,33,Male,Bachelor's,hr,HR Specialist,9.1,91855.37,3,Remote
+EMP-1747,43,Female,Bachelor's,Sales,Sales Associate,15.5,116714.55,4,Remote
+EMP-1748,54,Male,Master's,Data Science,Data Science Manager,11.7,151747.3,3,On-site
+EMP-1749,24,Female,Bachelor's,Engineering,Software Engineer,0.5,75629.9,3,Hybrid
+EMP-1750,36,Male,Master's,Data Science,Data Analyst,2.8,89052.95,4,Hybrid
+EMP-1751,37,Male,Master's,Finance,Financial Analyst,5.1,93601.79,2,Remote
+EMP-1752,46,Non-binary,Bachelor's,Finance,Financial Analyst,8.9,79754.72,2,Remote
+EMP-1753,39,Male,High School,Finance,Senior Finance Analyst,19.5,137325.77,3,On-site
+EMP-1754,50,Female,High School,Finance,Financial Analyst,4.0,70881.3,2,Remote
+EMP-1755,49,Non-binary,Master's,Sales,Sales Manager,4.8,111077.91,1,Hybrid
+EMP-1756,32,Male,Bachelor's,Engineering,Engineering Manager,7.1,124906.06,3,Hybrid
+EMP-1757,33,Female,Bachelor's,Finance,Financial Analyst,6.0,83404.91,2,Remote
+EMP-1758,27,Male,Master's,Finance,Finance Manager,0.5,101176.24,2,Hybrid
+EMP-1759,26,Male,Master's,Finance,Senior Finance Analyst,,79555.55,3,Hybrid
+EMP-1760,21,Female,Master's,Engineering,Tech Lead,0.0,109164.66,2,Hybrid
+EMP-1761,28,Male,Master's,Finance,Senior Finance Analyst,0.8,76132.37,2,Hybrid
+EMP-1762,45,Female,Bachelor's,Sales,Sales Manager,7.4,107494.94,2,Remote
+EMP-1763,52,Female,High School,Data Science,Data Analyst,6.9,100853.15,4,Hybrid
+EMP-1764,38,Male,Bachelor's,Sales,Sales Manager,7.8,107777.33,2,Hybrid
+EMP-1765,43,Female,High School,Engineering,Software Engineer,23.3,166269.59,3,Remote
+EMP-1766,44,Female,Master's,Executive,Director,7.2,160551.69,1,Hybrid
+EMP-1767,28,Female,Master's,Engineering,Tech Lead,2.1,112321.2,2,Hybrid
+EMP-1768,57,Female,High School,Finance,Financial Analyst,3.9,79020.34,5,Remote
+EMP-1769,36,Male,Bachelor's,Data Science,Data Scientist,7.8,109085.93,3,Hybrid
+EMP-1770,34,Female,Master's,Finance,Senior Finance Analyst,6.7,105520.42,4,Hybrid
+EMP-1771,42,Male,Bachelor's,Finance,Senior Finance Analyst,10.1,105949.52,3,Hybrid
+EMP-1772,46,Female,Bachelor's,HR,HR Manager,23.8,171610.19,2,Remote
+EMP-1773,26,Male,Master's,Sales,Sales Manager,0.6,-102193.62,3,Remote
+EMP-1774,42,Female,Bachelor's,HR,HR Specialist,19.2,136606.42,4,Hybrid
+EMP-1775,44,Male,Master's,Finance,Financial Analyst,10.4,111357.4,2,On-site
+EMP-1776,44,Male,Bachelor's,HR,HR Associate,17.0,122636.2,3,On-site
+EMP-1777,37,Female,PhD,Finance,Finance Manager,5.7,128797.82,1,Hybrid
+EMP-1778,46,Male,Bachelor's,HR,HR Specialist,21.4,145883.99,3,Remote
+EMP-1779,38,Male,Bachelor's,Finance,Senior Finance Analyst,9.1,95258.07,3,Remote
+EMP-1780,44,Male,Bachelor's,Sales,Sales Manager,15.5,151052.11,3,On-site
+EMP-1781,32,Male,Bachelor's,Engineering,Engineering Manager,0.8,96942.92,1,Remote
+EMP-1782,33,Female,Bachelor's,Sales,Sales Representative,10.2,102000.87,2,Remote
+EMP-1783,34,Female,Master's,Finance,Financial Analyst,6.3,106162.04,4,Hybrid
+EMP-1784,44,Male,Bachelor's,Finance,Financial Analyst,7.2,95511.66,2,Hybrid
+EMP-1785,40,Male,Master's,Sales,Sales Representative,12.0,118260.33,2,Hybrid
+EMP-1786,21,Male,Bachelor's,Sales,Sales Associate,0.0,51823.77,3,Remote
+EMP-1787,24,Male,Bachelor's,Engineering,Engineering Manager,0.5,95776.13,1,Hybrid
+EMP-1788,31,Male,Master's,Data Science,Data Science Manager,3.9,124165.19,4,Hybrid
+EMP-1789,21,Female,Bachelor's,Finance,Finance Manager,0.0,90414.87,2,Hybrid
+EMP-1790,36,Male,Bachelor's,Sales,Sales Representative,9.6,96280.11,2,Hybrid
+EMP-1791,43,Male,Bachelor's,Data Science,Senior Data Scientist,7.2,112931.0,4,Hybrid
+EMP-1792,34,Female,Bachelor's,HR,HR Manager,9.9,114099.21,2,On-site
+EMP-1793,40,Female,Bachelor's,Data Science,Data Scientist,12.3,113917.09,2,Remote
+EMP-1794,41,Female,High School,Data Science,Data Scientist,20.0,147196.78,3,On-site
+EMP-1795,30,Male,Master's,Engineering,Tech Lead,2.7,110794.6,3,Remote
+EMP-1796,46,Male,Bachelor's,Finance,Senior Finance Analyst,13.2,108362.87,4,Hybrid
+EMP-1797,28,Non-binary,Master's,Engineering,Engineering Manager,2.3,107759.86,2,Hybrid
+EMP-1798,37,Male,Bachelor's,HR,HR Associate,11.8,94028.84,2,Hybrid
+EMP-1799,27,Male,Master's,Engineering,Software Engineer,1.2,85456.07,3,Remote
+EMP-1800,30,Female,Master's,Engineering,Software Engineer,1.8,84279.92,3,On-site
+EMP-1801,35,Male,PhD,Finance,Finance Manager,0.8,127402.77,4,Remote
+EMP-1802,25,Female,Bachelor's,Data Science,Data Scientist,1.5,82168.38,3,Hybrid
+EMP-1803,26,Female,High School,Data Science,Senior Data Scientist,2.7,83567.59,3,Hybrid
+EMP-1804,26,Male,Bachelor's,HR,HR Specialist,2.5,66605.97,2,Remote
+EMP-1805,40,Non-binary,Bachelor's,Engineering,Tech Lead,15.8,161403.54,3,On-site
+EMP-1806,41,Female,High School,HR,HR Associate,3.5,62983.91,2,On-site
+EMP-1807,49,Female,High School,Finance,Finance Manager,21.3,167199.14,3,Hybrid
+EMP-1808,22,Female,Bachelor's,HR,HR Manager,0.0,81432.34,3,Remote
+EMP-1809,37,Female,Bachelor's,Data Science,Data Scientist,12.9,126175.54,4,Remote
+EMP-1810,43,Female,Bachelor's,Executive,Director,13.8,172818.69,2,Hybrid
+EMP-1811,36,Male,High School,Finance,Finance Manager,2.1,84602.84,3,Remote
+EMP-1812,36,Female,Master's,HR,HR Specialist,11.5,110679.41,3,Remote
+EMP-1813,21,Female,Master's,HR,HR Associate,0.0,76288.72,4,Hybrid
+EMP-1814,25,Male,Bachelor's,Finance,Finance Manager,0.8,86342.15,3,Hybrid
+EMP-1815,40,Male,Bachelor's,Engineering,Tech Lead,1.4,97473.55,3,Hybrid
+EMP-1816,30,Male,Master's,Sales,Sales Manager,3.9,102882.85,2,Remote
+EMP-1817,29,Male,Bachelor's,Data Science,Data Scientist,1.6,73425.44,3,Hybrid
+EMP-1818,44,Non-binary,PhD,Data Science,Data Scientist,12.9,151699.68,4,Remote
+EMP-1819,40,Female,PhD,Finance,Senior Finance Analyst,8.9,128212.01,3,On-site
+EMP-1820,38,Female,Bachelor's,Engineering,Engineering Manager,11.5,144193.49,3,Hybrid
+EMP-1821,25,Female,Bachelor's,Finance,Finance Manager,1.9,99303.75,3,Hybrid
+EMP-1822,30,Male,Bachelor's,sales,Sales Associate,7.0,91499.97,3,Remote
+EMP-1823,35,Female,PhD,Engineering,Engineering Manager,4.1,154403.23,4,Hybrid
+EMP-1824,30,Male,Bachelor's,Sales,Sales Representative,6.2,82862.91,2,Remote
+EMP-1825,45,Male,Bachelor's,   Finance  ,Financial Analyst,10.7,114659.56,3,Hybrid
+EMP-1826,24,Male,Bachelor's,Data Science,Data Scientist,0.8,70724.84,3,Remote
+EMP-1827,55,Male,Bachelor's,Data Science,Data Science Manager,3.0,107000.06,4,Remote
+EMP-1828,32,Female,Master's,Data Science,Data Analyst,0.7,83617.22,3,Hybrid
+EMP-1829,37,Female,High School,Sales,Sales Manager,15.0,126481.96,3,Hybrid
+EMP-1830,37,Female,Bachelor's,Sales,Sales Associate,11.5,100341.26,2,On-site
+EMP-1831,52,Female,Master's,Data Science,Data Scientist,21.5,175179.23,2,Remote
+EMP-1832,35,Male,Master's,Sales,Sales Representative,6.9,100722.23,2,Remote
+EMP-1833,41,Male,Bachelor's,HR,HR Associate,8.7,95349.11,3,On-site
+EMP-1834,34,Female,High School,Sales,Sales Associate,3.5,55189.1,2,Hybrid
+EMP-1835,29,Male,Bachelor's,Finance,Finance Manager,0.0,99468.08,5,On-site
+EMP-1836,24,Male,Bachelor's,Data Science,Data Analyst,0.4,72571.2,2,Remote
+EMP-1837,43,Male,Bachelor's,Executive,Vice President,7.0,145870.27,3,Remote
+EMP-1838,36,Male,PhD,Data Science,Senior Data Scientist,5.5,121615.36,3,Hybrid
+EMP-1839,21,Female,Master's,Data Science,Data Science Manager,0.0,102891.56,3,Hybrid
+EMP-1840,39,Male,High School,HR,HR Specialist,7.7,85544.89,5,Hybrid
+EMP-1841,34,Male,Bachelor's,Finance,Financial Analyst,3.5,78596.13,3,Remote
+EMP-1842,42,Female,Bachelor's,Finance,Financial Analyst,13.9,131719.26,3,Hybrid
+EMP-1843,26,Male,Master's,Finance,Financial Analyst,1.0,71641.71,3,Hybrid
+EMP-1844,43,Female,PhD,Finance,Senior Finance Analyst,4.2,100135.8,2,Hybrid
+EMP-1845,35,Female,PhD,Finance,Finance Manager,4.0,135310.73,3,Hybrid
+EMP-1846,25,Female,Master's,Finance,Financial Analyst,0.7,71682.52,3,On-site
+EMP-1847,25,Male,High School,Engineering,Senior Engineer,5.6,81669.1,3,On-site
+EMP-1848,62,Male,Bachelor's,Data Science,Data Analyst,25.6,170254.29,3,Hybrid
+EMP-1849,32,Male,High School,HR,HR Manager,7.7,117870.66,4,Hybrid
+EMP-1850,22,Male,Bachelor's,Sales,Sales Manager,0.0,88225.79,1,Hybrid
+EMP-1851,41,Non-binary,Master's,HR,HR Manager,8.1,124227.77,2,Hybrid
+EMP-1852,21,Male,Bachelor's,Data Science,Data Science Manager,0.0,1200000.0,3,On-site
+EMP-1853,47,Female,Bachelor's,Sales,Sales Manager,1.4,86394.12,2,Hybrid
+EMP-1854,28,Female,Master's,Finance,Finance Manager,0.1,93047.92,3,Hybrid
+EMP-1855,33,Male,PhD,   HR  ,HR Associate,5.8,105266.82,2,Remote
+EMP-1856,46,Male,PhD,Data Science,Data Science Manager,3.6,138349.43,3,Remote
+EMP-1857,23,Female,Bachelor's,HR,HR Manager,0.0,74698.77,2,Hybrid
+EMP-1858,64,Female,Bachelor's,HR,HR Associate,22.1,151605.06,2,Remote
+EMP-1859,47,Male,High School,Engineering,Engineering Manager,14.7,157291.72,3,Hybrid
+EMP-1860,41,Female,Bachelor's,Sales,Sales Manager,16.6,152401.28,3,Remote
+EMP-1861,50,Male,Master's,Executive,Director,5.3,151505.94,4,Remote
+EMP-1862,24,Male,Master's,Engineering,Software Engineer,0.0,75199.77,3,Remote
+EMP-1863,37,Male,Master's,Engineering,Tech Lead,6.1,130876.19,4,Remote
+EMP-1864,37,Female,Master's,HR,HR Associate,7.5,101590.59,3,Remote
+EMP-1865,21,Female,Bachelor's,Data Science,Senior Data Scientist,0.0,69267.7,2,Remote
+EMP-1866,50,Male,Bachelor's,Executive,Director,4.4,122220.68,2,Remote
+EMP-1867,44,Female,Bachelor's,Executive,Vice President,12.1,158682.0,2,Remote
+EMP-1868,31,Female,Master's,Finance,Financial Analyst,1.2,74411.53,3,Remote
+EMP-1869,21,Female,Bachelor's,Engineering,Senior Engineer,0.0,75649.25,3,Remote
+EMP-1870,44,Female,High School,Engineering,Engineering Manager,10.2,123631.05,2,Hybrid
+EMP-1871,37,Female,Bachelor's,Sales,Sales Manager,5.3,109270.04,3,Remote
+EMP-1872,30,Male,Master's,Finance,Financial Analyst,5.8,100103.68,3,Hybrid
+EMP-1873,52,Male,Bachelor's,Sales,Sales Associate,13.7,120274.34,3,Hybrid
+EMP-1874,38,Female,Bachelor's,Data Science,Data Scientist,2.3,86118.58,4,On-site
+EMP-1875,29,Male,Bachelor's,Data Science,Senior Data Scientist,5.5,101287.42,4,On-site
+EMP-1876,33,Male,High School,Sales,Sales Associate,5.3,71039.45,2,Hybrid
+EMP-1877,42,Male,Master's,Data Science,Data Analyst,7.3,115527.85,3,Hybrid
+EMP-1878,54,Male,Bachelor's,Executive,Vice President,17.0,193543.81,4,Hybrid
+EMP-1879,47,Male,Bachelor's,Sales,Sales Representative,1.7,64527.56,2,Remote
+EMP-1880,56,Female,Bachelor's,Finance,Senior Finance Analyst,18.5,133614.2,3,Remote
+EMP-1881,31,Female,High School,Finance,Senior Finance Analyst,1.5,51591.43,2,Hybrid
+EMP-1882,34,Male,High School,Sales,Sales Associate,4.9,67673.71,2,Hybrid
+EMP-1883,47,Female,Master's,Sales,Sales Representative,11.4,123995.7,2,Hybrid
+EMP-1884,43,Male,Master's,Engineering,Senior Engineer,12.6,131972.99,4,Hybrid
+EMP-1885,46,Male,Bachelor's,Data Science,Senior Data Scientist,7.2,103581.49,2,Hybrid
+EMP-1886,39,Female,PhD,Sales,Sales Manager,11.8,152506.43,3,Remote
+EMP-1887,29,Male,High School,Finance,Senior Finance Analyst,9.3,86369.91,3,On-site
+EMP-1888,42,Male,PhD,Engineering,Tech Lead,1.6,128809.05,2,Remote
+EMP-1889,25,Male,Bachelor's,Finance,Senior Finance Analyst,1.9,72733.79,3,Hybrid
+EMP-1890,31,Male,Bachelor's,Data Science,Data Scientist,4.3,90622.65,3,Remote
+EMP-1891,32,Male,PhD,Sales,Sales Associate,1.4,76104.25,2,On-site
+EMP-1892,41,Male,High School,Data Science,Data Science Manager,15.1,145992.07,1,On-site
+EMP-1893,35,Male,Bachelor's,Sales,Sales Representative,11.6,104907.73,3,Hybrid
+EMP-1894,34,Female,Bachelor's,Sales,Sales Manager,5.1,106430.35,3,On-site
+EMP-1895,41,Male,Bachelor's,Engineering,Engineering Manager,,151406.57,3,Remote
+EMP-1896,45,Female,Bachelor's,HR,HR Associate,22.5,141399.9,3,Hybrid
+EMP-1897,35,Female,Bachelor's,Sales,Sales Manager,1.0,86393.02,3,Hybrid
+EMP-1898,41,Female,Master's,HR,HR Specialist,8.8,111450.6,4,Hybrid
+EMP-1899,24,Female,Bachelor's,Engineering,Tech Lead,1.2,106013.6,3,On-site
+EMP-1900,41,Female,High School,Sales,Sales Manager,16.9,161053.62,4,Hybrid
+EMP-1901,48,Non-binary,Master's,Engineering,Tech Lead,17.4,184350.53,3,Hybrid
+EMP-1902,39,Male,Bachelor's,Data Science,Data Analyst,11.2,115931.51,3,Remote
+EMP-1903,53,Female,High School,Data Science,Data Analyst,29.8,194354.21,2,Remote
+EMP-1904,42,Male,Bachelor's,Engineering,Software Engineer,12.1,118025.9,2,On-site
+EMP-1905,21,Female,Master's,HR,HR Associate,0.0,70311.39,3,Remote
+EMP-1906,32,Female,Bachelor's,Finance,Financial Analyst,3.4,87004.94,3,Remote
+EMP-1907,32,Male,PhD,Data Science,Data Science Manager,3.8,144849.98,2,Hybrid
+EMP-1908,57,Male,Master's,Data Science,Data Scientist,19.1,169288.78,3,On-site
+EMP-1909,51,Male,Bachelor's,Engineering,Senior Engineer,,118788.16,2,Hybrid
+EMP-1910,50,Male,PhD,Data Science,Data Science Manager,15.7,195317.29,4,Hybrid
+EMP-1911,29,Male,Bachelor's,Sales,Sales Associate,2.0,66214.17,4,Hybrid
+EMP-1912,34,Male,Bachelor's,Finance,Finance Manager,11.5,143624.96,3,Remote
+EMP-1913,46,Female,Bachelor's,Finance,Finance Manager,20.6,175299.73,3,Remote
+EMP-1914,38,Male,High School,Finance,Senior Finance Analyst,9.2,76462.64,3,Hybrid
+EMP-1915,35,Male,Master's,Data Science,Senior Data Scientist,7.5,107593.92,3,On-site
+EMP-1916,41,Male,High School,Executive,Director,0.3,121792.85,3,Remote
+EMP-1917,53,Male,Bachelor's,   HR  ,HR Specialist,6.0,74294.97,2,Remote
+EMP-1918,37,Male,PhD,Data Science,Data Analyst,7.1,125990.15,2,Remote
+EMP-1919,30,Female,Bachelor's,   Finance  ,Financial Analyst,7.2,91976.27,2,Hybrid
+EMP-1920,44,Male,Bachelor's,Sales,Sales Representative,16.9,131352.13,2,Hybrid
+EMP-1921,31,Female,Master's,HR,HR Associate,5.5,93022.06,3,Remote
+EMP-1922,37,Male,Bachelor's,Engineering,Tech Lead,14.3,149961.42,3,Remote
+EMP-1923,36,Male,Bachelor's,Data Science,Data Science Manager,2.5,102020.53,3,Hybrid
+EMP-1924,36,Male,Master's,Data Science,Data Analyst,11.0,120253.08,1,Hybrid
+EMP-1925,35,Male,High School,Finance,Finance Manager,4.3,91611.02,2,Hybrid
+EMP-1926,37,Female,Bachelor's,Engineering,Software Engineer,10.0,115247.1,3,Remote
+EMP-1927,31,Female,PhD,Finance,Financial Analyst,2.1,87567.73,2,On-site
+EMP-1928,33,Female,Bachelor's,Engineering,Senior Engineer,0.0,60380.02,2,On-site
+EMP-1929,25,Female,Bachelor's,Finance,Finance Manager,2.8,95848.56,2,Hybrid
+EMP-1930,43,Female,Bachelor's,Engineering,Tech Lead,11.2,134562.01,2,On-site
+EMP-1931,28,Male,Bachelor's,HR,HR Manager,1.2,77949.43,3,Hybrid
+EMP-1932,43,Non-binary,Master's,Sales,Sales Associate,12.0,112242.22,1,Hybrid
+EMP-1933,41,Male,Bachelor's,Data Science,Data Analyst,3.7,102698.2,3,Hybrid
+EMP-1934,41,Female,Bachelor's,Executive,Vice President,9.5,154327.21,2,On-site
+EMP-1935,21,Female,PhD,Engineering,Software Engineer,0.0,90001.66,3,Remote
+EMP-1936,47,Male,Master's,Data Science,Data Science Manager,21.6,-195019.4,2,On-site
+EMP-1937,31,Female,Master's,Data Science,Data Analyst,0.3,85332.54,4,Remote
+EMP-1938,56,Female,Bachelor's,Engineering,Senior Engineer,23.8,170852.4,3,Remote
+EMP-1939,41,Male,High School,Engineering,Engineering Manager,14.1,132653.96,3,On-site
+EMP-1940,35,Male,Master's,Engineering,Engineering Manager,6.5,132006.62,3,Hybrid
+EMP-1941,23,Male,Bachelor's,HR,HR Manager,0.7,91164.63,3,Remote
+EMP-1942,50,Non-binary,Bachelor's,Executive,Director,21.4,213588.7,3,Hybrid
+EMP-1943,34,Male,Bachelor's,Data Science,Data Science Manager,2.0,92853.2,1,Hybrid
+EMP-1944,53,Male,Bachelor's,Data Science,Data Analyst,24.5,169439.7,2,Hybrid
+EMP-1945,35,Male,Bachelor's,Sales,Sales Associate,0.1,71175.75,4,Remote
+EMP-1946,60,Male,Master's,Sales,Sales Manager,29.1,218993.75,3,Hybrid
+EMP-1947,22,Female,Bachelor's,HR,HR Manager,0.0,73993.32,4,Hybrid
+EMP-1948,40,Male,Bachelor's,Engineering,Senior Engineer,12.9,115646.8,2,Hybrid
+EMP-1949,29,Male,Master's,HR,HR Specialist,2.1,67585.26,2,Hybrid
+EMP-1950,32,Male,PhD,Engineering,Tech Lead,4.3,131430.82,3,On-site
+EMP-1951,40,Female,Bachelor's,Data Science,Senior Data Scientist,1.0,75120.82,4,Remote
+EMP-1952,30,Male,Master's,Sales,Sales Representative,1.1,81698.35,3,Hybrid
+EMP-1953,39,Male,Bachelor's,HR,HR Associate,7.4,83983.26,2,Remote
+EMP-1954,26,Female,Master's,Engineering,Software Engineer,1.5,88751.64,3,On-site
+EMP-1955,34,Male,Master's,Sales,Sales Manager,1.2,91719.91,2,On-site
+EMP-1956,43,Female,Bachelor's,Data Science,Senior Data Scientist,4.8,90336.15,4,Remote
+EMP-1957,42,Male,Bachelor's,Data Science,Data Science Manager,17.8,161252.29,1,Remote
+EMP-1958,37,Female,High School,Sales,Sales Associate,4.1,58600.96,2,Hybrid
+EMP-1959,31,Male,Bachelor's,Sales,Sales Manager,1.7,89016.03,3,Hybrid
+EMP-1960,21,Male,Bachelor's,Engineering,Software Engineer,0.0,58358.81,1,Remote
+EMP-1961,42,Male,Bachelor's,HR,HR Associate,17.7,118341.62,1,Hybrid
+EMP-1962,32,Female,Bachelor's,Finance,Financial Analyst,5.8,86049.87,4,Hybrid
+EMP-1963,41,Male,Bachelor's,Data Science,Data Science Manager,15.9,149996.6,3,Remote
+EMP-1964,45,Female,Master's,HR,HR Specialist,12.2,119289.61,3,On-site
+EMP-1965,65,Female,Bachelor's,Engineering,Engineering Manager,42.1,274168.18,1,Remote
+EMP-1966,35,Male,Master's,Engineering,Engineering Manager,5.8,129086.93,3,Hybrid
+EMP-1967,33,Female,Master's,Sales,Sales Representative,2.2,78217.05,2,Hybrid
+EMP-1968,22,Male,Master's,Data Science,Data Scientist,0.0,80502.83,3,Hybrid
+EMP-1969,26,Male,PhD,Engineering,Engineering Manager,0.0,124542.9,2,Hybrid
+EMP-1970,32,Male,Bachelor's,Finance,Finance Manager,5.8,105974.26,3,On-site
+EMP-1971,45,Male,Bachelor's,Data Science,Senior Data Scientist,14.4,142571.65,3,Hybrid
+EMP-1972,36,Male,Bachelor's,Sales,Sales Manager,4.7,103328.41,3,Remote
+EMP-1973,50,Male,Bachelor's,Finance,Finance Manager,22.2,180710.03,2,Hybrid
+EMP-1974,36,Male,Master's,Engineering,Tech Lead,10.7,150490.51,3,Remote
+EMP-1975,40,Male,Bachelor's,HR,HR Specialist,3.2,67728.28,3,Hybrid
+EMP-1976,53,Male,Master's,HR,HR Associate,15.6,135734.93,3,Hybrid
+EMP-1977,33,Female,Master's,Data Science,Data Scientist,2.9,97911.8,2,On-site
+EMP-1978,46,Female,Bachelor's,Executive,Vice President,8.3,152236.12,4,Hybrid
+EMP-1979,35,Female,Bachelor's,Finance,Finance Manager,10.7,122585.17,1,On-site
+EMP-1980,47,Male,Bachelor's,Engineering,Senior Engineer,22.3,162502.88,2,Hybrid
+EMP-1981,36,Male,Master's,HR,HR Associate,1.3,63573.85,3,Remote
+EMP-1982,38,Female,Bachelor's,Data Science,Data Analyst,4.7,83618.62,1,On-site
+EMP-1983,21,Female,Bachelor's,HR,HR Specialist,0.0,60664.44,4,Hybrid
+EMP-1984,42,Female,Bachelor's,Executive,Director,16.7,185446.5,4,Hybrid
+EMP-1985,55,Male,Bachelor's,HR,HR Specialist,19.6,133900.67,3,Hybrid
+EMP-1986,49,Female,Bachelor's,Data Science,Senior Data Scientist,4.6,82372.92,2,Remote
+EMP-1987,31,Female,PhD,Engineering,Senior Engineer,1.4,91540.65,2,Hybrid
+EMP-1988,50,Male,PhD,HR,HR Associate,22.4,173195.03,2,On-site
+EMP-1989,32,Female,Master's,Data Science,Data Scientist,1.9,86600.34,1,Remote
+EMP-1990,21,Male,Bachelor's,HR,HR Specialist,0.0,44790.11,3,Remote
+EMP-1991,57,Female,High School,HR,HR Associate,14.5,106534.52,3,Hybrid
+EMP-1992,50,Male,Bachelor's,Sales,Sales Representative,21.5,148560.88,2,On-site
+EMP-1993,39,Female,Bachelor's,   Finance  ,Finance Manager,5.6,117154.12,3,Hybrid
+EMP-1994,45,Male,Bachelor's,Finance,Finance Manager,3.4,90350.68,3,Hybrid
+EMP-1995,28,Female,Bachelor's,Engineering,Engineering Manager,5.4,116240.23,3,Remote
+EMP-1996,26,Female,Bachelor's,Sales,Sales Manager,3.4,112378.36,5,Hybrid
+EMP-1997,44,Male,High School,Finance,Finance Manager,5.8,101086.75,3,On-site
+EMP-1998,28,Male,High School,Finance,Senior Finance Analyst,6.8,83106.52,3,On-site
+EMP-1999,25,Non-binary,Bachelor's,Sales,Sales Representative,1.8,64628.45,3,Hybrid
+EMP-1057,29,Male,Master's,Data Science,Data Scientist,,85466.91,3,Remote
+EMP-1930,43,Female,Bachelor's,Engineering,Tech Lead,11.2,134562.01,2,On-site
+EMP-1682,38,Non-binary,Bachelor's,Data Science,Data Science Manager,8.8,130992.63,3,Hybrid
+EMP-1369,27,Female,Master's,Engineering,Tech Lead,0.2,114324.19,2,Hybrid
+EMP-1407,41,Male,Bachelor's,Data Science,Data Scientist,9.3,112542.79,3,Remote
+EMP-1151,43,Female,PhD,Sales,Sales Representative,0.1,77662.76,2,On-site
+EMP-1733,42,Male,Bachelor's,HR,HR Specialist,10.8,100214.58,4,On-site
+EMP-1874,38,Female,Bachelor's,Data Science,Data Scientist,2.3,86118.58,4,On-site
+EMP-1437,46,Male,Master's,Executive,Director,13.0,190946.86,4,Hybrid
+EMP-1378,35,Male,Bachelor's,Data Science,Data Analyst,2.2,87376.82,3,Remote
+EMP-1395,47,Non-binary,Bachelor's,Data Science,Senior Data Scientist,7.8,99412.2,2,Hybrid
+EMP-1381,39,Male,Master's,Sales,Sales Representative,6.6,97813.47,3,Hybrid
+EMP-1012,40,Female,Bachelor's,HR,HR Associate,11.8,88590.88,1,Hybrid
+EMP-1291,30,Male,High School,HR,HR Manager,1.3,86227.35,3,Hybrid
+EMP-1353,34,Female,Bachelor's,Sales,Sales Representative,2.0,49308.74,3,Hybrid

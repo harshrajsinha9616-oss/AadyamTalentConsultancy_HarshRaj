@@ -1,0 +1,8 @@
+{
+    "Formula": "Salary = 79209.46 + (3960.54 * Years of Experience)",
+    "R_squared": 0.6466,
+    "Mean_Squared_Error": 424146859.8,
+    "Root_Mean_Squared_Error": 20594.83,
+    "Slope_Coefficient (per year increase)": 3960.54,
+    "Intercept ($)": 79209.46
+}
